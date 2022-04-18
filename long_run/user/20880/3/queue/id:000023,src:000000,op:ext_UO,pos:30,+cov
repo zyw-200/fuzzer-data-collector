@@ -1,0 +1,2 @@
+GET / HTTP/1.1
+wzywzywzywzyw           RX packets:%lu errors:%lu dropped:%lu overruns:%*lu frame:%*lu

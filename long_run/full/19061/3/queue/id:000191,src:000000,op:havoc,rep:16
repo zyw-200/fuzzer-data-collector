@@ -1,0 +1,5 @@
+GET /sessioostogin.php HTTP/1.1
+Accert-Encodig: gzip,ddchzywzywzywzywzywzyreadfromclient: %d %zd %zu %zd
+Contebt_1ength:ccept-Ecoding: gzi 20
+Cookse:€tost=test
+

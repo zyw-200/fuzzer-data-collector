@@ -1,0 +1,30 @@
+start_time        : 1630397053
+last_update       : 1630485892
+fuzzer_pid        : 36
+cycles_done       : 0
+execs_done        : 14624215
+execs_per_sec     : 145.76
+paths_total       : 461
+paths_favored     : 90
+paths_found       : 460
+paths_imported    : 0
+max_depth         : 3
+cur_path          : 238
+pending_favs      : 59
+pending_total     : 415
+variable_paths    : 1
+stability         : 99.59%
+bitmap_cvg        : 3.39%
+unique_crashes    : 51
+unique_hangs      : 0
+last_path         : 1630481372
+last_crash        : 1630481140
+last_hang         : 0
+execs_since_crash : 737653
+exec_timeout      : 20
+afl_banner        : lighttpd
+afl_version       : 2.57b
+target_mode       : qemu 
+command_line      : ./afl-fuzz -m none -Q -i ./inputs -o ./outputs -x keywords ./usr/bin/lighttpd -E USER=root -E HOME=/ -E user_debug=31 -E TERM=vt102 -E PATH=/usr/bin:/bin:/usr/sbin:/sbin:/mydlink -E LD_PRELOAD=/firmadyne/libnvram.so -E SHELL=/bin/sh -E PWD=/ -f /etc/lighttpd/lighttpd.conf @@
+slowest_exec_ms   : 22
+peak_rss_mb       : not available while afl is running

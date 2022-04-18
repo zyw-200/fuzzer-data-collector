@@ -1,0 +1,7 @@
+GET / HTTP/1.1ÌÏÏHost: 192.168.0.1,applicatioxt/html,application/xhtml+ggggggggggggggggggggggggggggxml,application/xml;q=0N9,image/webp,*sigchld_run/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: GETgzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cooke: uid=CFYCmNixEa
+

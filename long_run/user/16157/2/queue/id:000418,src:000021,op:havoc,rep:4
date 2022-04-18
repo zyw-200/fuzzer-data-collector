@@ -1,0 +1,18 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;g=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookiege/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrtion: keep-alive
+Content-TypeUpgrade-Insecure-Requests: 1
+Cookiege/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encodade-Insecure-Req: uid=CFYCmNixEa
+Štest=test
+

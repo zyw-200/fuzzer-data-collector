@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.9
+Accept-Encoding:8gzIp,ddShzywzywzywzywzywzywzywzywzyw
+Host:TTPS.168.0.50
+Content_LIngth: 20
+Cookie:;test=te
+Accept-Encoding:8gzIp,st
+

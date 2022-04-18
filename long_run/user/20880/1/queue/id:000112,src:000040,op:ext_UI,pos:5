@@ -1,0 +1,6 @@
+GET /<wan_port_ping_response_enable>%s</wan_port_ping_response_enable>f1_d.bmp HT.1
+w
+H0
+C
+Cot
+

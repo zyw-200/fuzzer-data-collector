@@ -1,0 +1,9 @@
+GET / Hve
+SOAPAction:<R:service:WLAccept-Language: #5/etc/ae
+SOAPAction:<R:service:WLAccept-Language: #5/etc/ath/wifi_schedule 11a off
+te-
+ve
+SOAPAction:<R:service:WLAth/wifi_schedule 11a off
+te-
+ve
+SOAPAction:<R:service:WLANConfiguration:1 #@#"><

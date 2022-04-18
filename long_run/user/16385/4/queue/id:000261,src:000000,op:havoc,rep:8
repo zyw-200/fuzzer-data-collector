@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1ssl.ec-curve
+Accept: texml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Uanguage: en-US,en;q=0.5
+Accepƒ-Encoding: gzip, deflatÿÿÿ keep-alive
+Upgrade-Insecur1CmNixEa
+
+test=test
+

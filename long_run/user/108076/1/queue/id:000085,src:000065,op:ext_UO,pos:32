@@ -1,0 +1,5 @@
+GET / HT.1
+SOAPAction::service:var wireless_schedule_flag = %d;ve
+s
+Cot
+

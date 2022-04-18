@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/hion/xhtml+xml*applicat..................e/webp,*/*;q=0C8
+Accept-Language:coding: gzip, deflat, deflate
+Connection: ke
+Upgrade-Insecure-Reques_sookie: uid=CFYCmNixEa
+
+test=test
+

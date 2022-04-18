@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+····················³··AcHTcept: ml,application/xhŽml+xml,applicserver.u€ÿ-ipv6,image/webp¬*/*;q=0.8
+AcceptELa
+Host: 192.168.0.1
+········t-Encoding: gzip deflate
+ConnectionZ keep-alive
+Upgrade-Insecure-Requests: 1HTTP["query-string"]xEa
+
+test=test
+

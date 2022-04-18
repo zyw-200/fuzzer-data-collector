@@ -1,0 +1,6 @@
+GET %s//www/logout.php?_login.php HTTP/1.1
+Accept-Encoding: gziflate,sywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zyest
+

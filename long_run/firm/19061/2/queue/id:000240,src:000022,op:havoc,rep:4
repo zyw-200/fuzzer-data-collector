@@ -1,0 +1,6 @@
+GET /sesin.php HTTP/1.9
+Accept-Encoding: rzip,ddchzywzywzywzywzywzywzywzywzyw
+Hosç: 192.168.0.50
+Content_Length: 20
+Cookie: test=test
+

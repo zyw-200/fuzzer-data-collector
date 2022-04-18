@@ -1,0 +1,5 @@
+GET /syslogd -C %d &w
+H0
+Conent_Length: 20
+Cookie: ui=test
+

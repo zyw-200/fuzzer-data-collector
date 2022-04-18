@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+AccDEBUG: Last-Modified check failed as the received timestamp was too long:1
+Cookie: uid=CFYCmNixEa
+
+=tes

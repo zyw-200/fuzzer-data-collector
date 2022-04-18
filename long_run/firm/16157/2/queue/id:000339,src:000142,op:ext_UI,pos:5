@@ -1,0 +1,2 @@
+GET H%02x:%02x:%02x:%02x:%02x:%02xTTP/%u.%u/ HTTP/1.1
+Ho

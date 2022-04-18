@@ -1,0 +1,6 @@
+GET %s//ion_login.php HTTP/1.1
+Connection: closelatywzywzywzywzywzyw
+Host: 192.168.0.50
+Connection: close
+Cookie: uid=zyest
+

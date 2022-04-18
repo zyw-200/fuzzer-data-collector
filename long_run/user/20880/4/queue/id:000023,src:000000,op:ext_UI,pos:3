@@ -1,0 +1,9 @@
+GET           collisions:%lu txqueuelen:%*lu / HT.1
+1
+Accepq=0.8
+A;q=0.5
+eflate
+-alive
+s: 1
+Cot
+

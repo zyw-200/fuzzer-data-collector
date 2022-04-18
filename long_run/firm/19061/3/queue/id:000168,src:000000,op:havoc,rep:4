@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+g: gzip,ddchzy414 Request-URI Too Longwéywzywzywzywzywzywzywzywwzywzywzyw
+Host: 192.168.0.50ength: 20
+Cookie: test=test
+

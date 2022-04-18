@@ -1,0 +1,3 @@
+POST %s/dir.%d.%ld/%HT.%ld/%HTTP/0.1
+TP/0.1
+Ac

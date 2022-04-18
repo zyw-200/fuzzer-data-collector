@@ -1,0 +1,5 @@
+GET   1 s ap:"%s" 1 s ssid1:"%s" 1 s client:"%s"  gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.:68.0.50
+Conent_Length: 20
+Cookie: uest=test
+

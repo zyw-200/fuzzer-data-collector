@@ -1,0 +1,5 @@
+GET  /boaroot/cgw/menu.asp/ HTTP/1.1
+Qccept-Encg: g
+Host: AUTHORIZATInt_Length: 00
+CookieSet-Ce: s;: uid=zySSIONID=%s;: uid=zywzywzyNID=%s;: uid=zywzywzy
+

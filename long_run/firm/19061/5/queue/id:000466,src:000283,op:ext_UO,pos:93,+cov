@@ -1,0 +1,6 @@
+POST to file rejectedGET //bin/rebootin.php HTTP/1.1
+Accept-Encoding: gzip,ddchywzywzywzyw
+Content-Length: 50
+Content_Length: 20
+Cookie: test=test
+

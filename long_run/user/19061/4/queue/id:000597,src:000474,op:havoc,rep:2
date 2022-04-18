@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+If-Range:ccept-: Jzip,333333333333333333333333333333w
+Host: 192.168.0.50
+Cqnent_Length: 20
+Cookie: uest=test
+

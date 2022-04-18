@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.1.0.1
+Accept: Sext/html,application/xhtml+xml,application/xml;q=Languagee/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: e
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

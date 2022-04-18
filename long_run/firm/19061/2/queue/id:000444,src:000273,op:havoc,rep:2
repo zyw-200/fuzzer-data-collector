@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+User-agent:ng: 1.1
+User-agent:ng: ggzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Content_Lengt/var/config.bintest=test
+

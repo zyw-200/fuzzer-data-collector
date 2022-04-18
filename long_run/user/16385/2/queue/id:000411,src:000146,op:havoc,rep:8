@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Hosk: /chklst.htm
+Accept: .1
+Hosh: /chklscept: .1
+Hosk:plication/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Ac‚ept-Language: en-US,en;q=0.5
+Accept-EingT gzip, deflate
+Connection: keep-alive
+Upgr-ReŠuests: 1
+Cookie: uid=CFYCmNixTa
+
+=tes

@@ -1,0 +1,8 @@
+POST / HTTP/1.1y
+
+Accept-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+ConCookie: uid=zywzywzy
+
+test=test
+

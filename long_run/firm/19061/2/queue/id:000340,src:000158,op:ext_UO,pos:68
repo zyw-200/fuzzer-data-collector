@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Connection: closeAccept-Encoding: gSun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,
+Content_Length: 20
+Cookie: test=test
+

@@ -1,0 +1,9 @@
+GET иииииФииииииииииииииииии/ HTTP/1.1
+Host: 192.168.0.1
+Accept: te]t/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Languwge: en-US,en;q=0.5
+Accept-EngodingGET: gzip, deflateЫ
+Connection: keep-alive
+Upgrade-In	ecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

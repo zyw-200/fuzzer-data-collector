@@ -1,0 +1,11 @@
+GET /session[login.php HTTP/1.1
+Acceptzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host:192.168.0.50: uid=zywzywzy
+
+test=tes
+Conent_Length: oxin.plp HTTP20
+Cookie: uid=zywzywzy
+
+
+test=test
+

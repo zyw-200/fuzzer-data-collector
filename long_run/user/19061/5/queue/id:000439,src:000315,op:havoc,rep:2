@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+Referer:ccept-:ywzywzywzyw
+Host: 192.168.0.TP/1.1
+Referer:ccept-:flate,sd50
+Conent_Length: 20
+Cookie: uest=test
+

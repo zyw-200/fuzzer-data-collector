@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+ion: keep-alive
+Upgrade-InsAccept: text/html,applicaInsecuretiomldeflate;q=0.9,image/wpbp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, def: 1
+Cookie: uid=CFYCmNiion: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

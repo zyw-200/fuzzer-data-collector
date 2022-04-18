@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtel+x, deflate
+Connection: keep-alml,appliation/xml;q=0.192.1689,image/webp,*/*;q=0.8
+Accept-L`ngu: en-US,en;q=0.5
+Aoding: gzip, deflate
+Connection: keep-alivB
+UpgradS-Insecure-..............<...... ...Requests: 1
+Cookie: uÝd=CFYCm@ixEa
+
+test=tst

@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1ŠAt: text/q=0.8
+A;q=0.5
+Accept-Eeflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+CoixEa
+
+

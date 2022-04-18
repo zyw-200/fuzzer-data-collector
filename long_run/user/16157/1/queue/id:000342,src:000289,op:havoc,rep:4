@@ -1,0 +1,9 @@
+GET / HTTP/1.1J:ost: 192.168.0.1
+Accept: text/html,appYication/xhtml+xml,application/xml;qip, deflate
+SOAPACTION:'ëe=0.9,image/webp,*/*;q=0.8
+cccept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+SOAPACTION:'ëeep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

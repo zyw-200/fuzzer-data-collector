@@ -1,0 +1,8 @@
+GET /<wlan_guard_interval>short</wlan_guard_interval> HTTP/1.1
+wzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzyw
+
+test=test
+

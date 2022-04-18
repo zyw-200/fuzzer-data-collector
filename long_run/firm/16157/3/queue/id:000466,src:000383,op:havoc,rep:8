@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+SOAPACTION::service:ost: 192.168.0.1
+Accept: text/html,application/xhtml+xml,arplicatn: ke1
+SOAPACTION::service:oq=0.!
+AcIIIcept-Language: enUS,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: ke1
+SOAPACTION::service:ost: 192.ep-alive
+Upvrade-Inokie: uid=CFYCmNixEa
+

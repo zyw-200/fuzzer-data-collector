@@ -1,0 +1,2 @@
+GET / HT.1
+SOAPAction:H:service:<ResponseCode>000</ResponseCode>

@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+Connection: keen,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,,sdchzyw
+Host: 192.168.0.50
+nt_Length: 20
+Cookie: uid=zwzy
+
+t

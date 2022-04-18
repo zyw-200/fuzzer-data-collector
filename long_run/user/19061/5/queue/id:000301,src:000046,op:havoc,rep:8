@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzip,deflate,chzywzywzywzywzywzywzywzywzyw
+Hlient:"%s" 1 s auth:"%þ" 1ost: 1.2.168.0.50
+Conent_LengthT 20
+Cookie: uid,z 1 s ap:"%s"(1 s ssid1:"%s" 1 s client:"%s" 1 s auth:"%þ" 1 s reason:"%s" ywzywzy
+:test=test
+

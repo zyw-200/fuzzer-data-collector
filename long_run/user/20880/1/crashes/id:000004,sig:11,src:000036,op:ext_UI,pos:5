@@ -1,0 +1,6 @@
+GET /<MACInfo><MacAddress>%s</MacAddress><DeviceName>%s</DeviceName></MACInfo>**.bmp 
+w
+H0
+C
+Cot
+

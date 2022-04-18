@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/9.1
+Accding: gzte,sywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+Allow: GET, HEADtest=test
+

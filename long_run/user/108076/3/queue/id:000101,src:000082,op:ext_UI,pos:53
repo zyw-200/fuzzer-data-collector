@@ -1,0 +1,8 @@
+GET / HT.1
+Host: 192.168.0.1
+SOAPAction:A8:service:strings /dev/mtd0 | grep -ie u.boot | grep -i -e dni | awk -F i '{ print $2; }' | awk '{ print $1; }' > /tmp/uboot_versionExpires: 0age: .5
+te
+ve
+s
+Cot
+

@@ -1,0 +1,8 @@
+GET / HT.1
+SOAPAction::service:<m:GetWirelessModeResponse xmlns:m="urn:NETGEAR-ROUTER:service:WLANConfiguration:1">    <NewWirelessMode>%s</NewWirelessMode>HŠA8
+Accept-Language: .5
+te
+ve
+s
+Cot
+

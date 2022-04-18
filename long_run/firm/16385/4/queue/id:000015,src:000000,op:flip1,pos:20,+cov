@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Hostº 191
+At: text/q=0.8
+Accept-La;q=0.5
+Accept-Eeflate
+Connection: keep-alive
+-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+=tes

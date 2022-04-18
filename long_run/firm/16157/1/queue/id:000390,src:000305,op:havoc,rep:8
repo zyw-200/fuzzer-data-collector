@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+REFERER:ost: 192l;q=TTP/1.1
+REFERER:ost: 192.AcConnection: keep-alive
+Upgrade-Insec^re-Requests: 1
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,6 @@
+GET  /boaroot/cgn/menu.asp/ HTTP/1.1
+Ac-Encg: g
+Host: 1.50
+Content_Length: 00
+CookieSet-Cookie: SSet-Cookie: SESSIONID=%s;ESSIONID=%s;SIONID=%s;=?456789:;<=zywzywzy
+

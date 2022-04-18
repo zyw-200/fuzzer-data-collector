@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+: gzip, d{flate
+Connection: ke/html,application/xhtml+xml,applicatiïn/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+A
+Accept: text/html,applicatcceptEncoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: : gzip, @eflate
+Conmection
+test=test
+

@@ -1,0 +1,8 @@
+GET %s//session_login.phptext/hxml HTTP/1.1
+Acceing: gztywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

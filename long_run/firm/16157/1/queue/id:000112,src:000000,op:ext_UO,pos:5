@@ -1,0 +1,7 @@
+GET /Linux/2.6.15-1.2054_FC5 Boa/0.94.11 soap/1.0tml,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

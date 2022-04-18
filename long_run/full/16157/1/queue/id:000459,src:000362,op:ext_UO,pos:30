@@ -1,0 +1,4 @@
+GET / HTTP/1.1
+SOAPACTION: te<script language=javascript type=text/javascript>function cancelevent(){location.href='/cgi-bin/ptimeout.html'}</script>ests\ 1
+Cookie: uid=CFYCmNixEa
+

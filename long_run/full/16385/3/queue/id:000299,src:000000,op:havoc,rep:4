@@ -1,0 +1,13 @@
+GET / HTTP/1.1
+Host: 19:.168.0.1
+Accept: text/html,application/xhtml+xml,app168.0.1
+Accept: text/html,appl/*;q=0.8
+Accepage: en-US168.0.1
+Accept: text/ht,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

@@ -1,0 +1,30 @@
+start_time        : 1630308994
+last_update       : 1630396505
+fuzzer_pid        : 37
+cycles_done       : 4
+execs_done        : 29481156
+execs_per_sec     : 252.66
+paths_total       : 166
+paths_favored     : 30
+paths_found       : 165
+paths_imported    : 0
+max_depth         : 9
+cur_path          : 158
+pending_favs      : 0
+pending_total     : 86
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 0.41%
+unique_crashes    : 1
+unique_hangs      : 0
+last_path         : 1630390333
+last_crash        : 1630308995
+last_hang         : 0
+execs_since_crash : 29481047
+exec_timeout      : 20
+afl_banner        : uhttpd
+afl_version       : 2.57b
+target_mode       : qemu 
+command_line      : ./afl-fuzz -m none -Q -i ./inputs -o ./outputs -x keywords ./usr/sbin/uhttpd -E USER=root -E HOME=/ -E user_debug=31 -E TERM=vt102 -E PATH=/bin:/sbin:/usr/bin:/usr/sbin -E LD_PRELOAD=/firmadyne/libnvram.so -E SHELL=/bin/sh -E PWD=/ -e /usr/sbin/detwan @@
+slowest_exec_ms   : 20
+peak_rss_mb       : not available while afl is running

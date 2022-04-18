@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+:ost: 192.168.0.1
+Accept: text/html,a.1
+:ost: 192.168.0.1
+Accept: pplication/xhtml+xml,apAccept: text/html,a.1
+:ost: 1,*/*;q=0.8
+Acceptge: en-US,enCoding: gzip, deflate
+SOAPACTION: kEep-alive
+Upgrade-Insecure-Requests: 1
+Cojkie: uid=CFYCmNixEa
+

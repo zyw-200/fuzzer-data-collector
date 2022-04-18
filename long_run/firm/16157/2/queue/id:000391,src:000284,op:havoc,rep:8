@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Hop,*/*;q=0.8
+Aquests: 
+Cost: 192.168.0.1
+Accept:Atext/html,application/xhtml(xml,hpplication/xml;q=0.9,image/webp,*/*;q=0.8
+Aquests: 
+Cookie: uccept-Language: en-US,en;q=-Encoding: gzioutdeflate
+USER[AGENT: keep-alive
+Upgrade-Insecure-Requests: 
+Cookie: uid=CFYCmNixEa
+

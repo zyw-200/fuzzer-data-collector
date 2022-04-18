@@ -1,0 +1,10 @@
+GET /session_login.php HTTP/1.9
+AccIncoding:
+Host:
+192.16.9
+AccIncoding:
+Host: 1928.0.50
+Conent_Length: 20
+Cookie: uid=zywz@wzy
+
+test=te

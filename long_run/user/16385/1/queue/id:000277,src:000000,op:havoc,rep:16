@@ -1,0 +1,9 @@
+GET /Requests HTTP/1.1
+Host: 092.168.0.1
+Accept: Á  ` l+xml,application/xll;q=0.9,image/webp,*/*;q=0.8
+Accept-Langu|ge: en-USen-US,en;q=0.5onnection: keep-alive
+UpgrEncodingade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixDa
+
+test=tekie
+

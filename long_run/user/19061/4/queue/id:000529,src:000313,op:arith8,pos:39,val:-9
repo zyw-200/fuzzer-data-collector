@@ -1,0 +1,6 @@
+GET / %accept_connection: %d4hdon_login%php HTTP/1.1
+Accept-Encoding: gsywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+

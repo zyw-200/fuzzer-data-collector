@@ -1,0 +1,5 @@
+GET / HT.1!
+Host: 192.168.0.1
+SOAPAction:A8:service:68.0.1
+SOAPAction:A8:service:ot
+

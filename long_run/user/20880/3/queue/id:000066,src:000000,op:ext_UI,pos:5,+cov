@@ -1,0 +1,8 @@
+GET /login_auth_fail.asp HTTP/1.1
+wzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzyw
+
+test=test
+

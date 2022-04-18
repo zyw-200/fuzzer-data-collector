@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/hôml,application/xMtml+xml,applicati^n/xml;q=0.9,image/webcompleonnectionte_env
+Accept-Languag 1
+Cdetect_stateookie: uid=CFYCmNixEa
+e: en-US,en;q=0.5Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

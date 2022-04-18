@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Content-Length: 1
+Accept: text/html,application/xhtml+xml,apTP/1.1
+Content-Length: 1
+ebp,*/*;q=0.8
+CONTENT-LENGTH:: en-US,en;q=0.5
+Accept-Encodinghhijackdomain_rpt: 1
+Accept: text/html,: gzip, deflate
+Connection: keep-alive
+Upgraäe-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

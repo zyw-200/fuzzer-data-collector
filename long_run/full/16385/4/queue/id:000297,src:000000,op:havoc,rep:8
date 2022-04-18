@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: te=0.5
+g: goip, tion/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language:lighttpd/1.4.28 (ssl) (Jun 12 2014 11:26:53) - a light and fast websGrver en-US,en;q=0.5
+g: goip, deflate
+Connection: keep-alivH
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+tewt=testH

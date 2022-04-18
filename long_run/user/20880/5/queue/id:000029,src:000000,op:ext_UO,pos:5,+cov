@@ -1,0 +1,7 @@
+GET /           RX packets:%lu errors:%lu dropped:%lu overruns:%*lu frame:%*lu-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

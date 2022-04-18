@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+If-Range:ccept-Encoding: gzip,dwzywzywzywzywzywzywzyw
+Host: 19".168.0.50n.php HTTP/1.1
+If-Range:ccep
+Contenh: 20
+Cookie: zest=test
+

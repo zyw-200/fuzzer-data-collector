@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+n: keep-alive
+UHost: 192.168.0.1
+Accept: text/html,applicationBxhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en6US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Reque“ts: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

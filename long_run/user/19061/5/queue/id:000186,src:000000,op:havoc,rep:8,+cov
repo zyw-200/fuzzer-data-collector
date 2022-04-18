@@ -1,0 +1,9 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding:µg
+Conent_Length: Bwywzywzywzywzywzywzywzyphpw
+Host: 192.168.0.50
+Conent_Length: B0
+Co^kie: uid=zywzywzy
+
+tphp=test
+

@@ -1,0 +1,5 @@
+GET /session_login.php HTTP,1.
+Accept-EnNoding: gzipddchzywzywzywzygzywzywzywzywzyw
+Host: 192.168.0.50
+Contenst=test#
+

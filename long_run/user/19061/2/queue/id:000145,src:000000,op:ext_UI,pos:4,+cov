@@ -1,0 +1,8 @@
+GET *** %s starting/session_login.php HTTP/1.1
+ncoding: gzip,deflate,sdywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

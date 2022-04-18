@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,applicat–on/xhtml+xml,applicati@n/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-LanguaHe: en-UJ,en;q=0.5
+AcceëZanguage: gzip, deflate
+Cxnnlgtion: keep-aldve
+Opgrade-Insecure-Reqóests: 1
+Cookie: uid=CFYCmNixEa
+
+test=testLanguagÅ
+

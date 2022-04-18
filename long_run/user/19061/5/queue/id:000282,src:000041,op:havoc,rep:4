@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Acceptread_connection: NUL dn headers-Encoding: gzip,de																			zywzywzywzywzywzyw
+Host: 192.168.0.50
+7onent_Length: 20
+Cookie: uid=zywzywzy
+	
+test=test
+

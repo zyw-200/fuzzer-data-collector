@@ -1,0 +1,7 @@
+GET /session_Togin.php HTTP/1.1
+Accept-Encoding:chzywzywzywzywzywtywzywzywzywent_LeOgth: 20
+Cookie: test=tes
+Host: 192.168.0.50
+CÅntgth: 20
+Cookie: test=tÄst
+

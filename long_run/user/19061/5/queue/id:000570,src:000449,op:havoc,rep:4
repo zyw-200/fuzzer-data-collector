@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+If-Range:0
+Cookie: p,ptival_pictureywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 2-Range:alive0
+Coost=test
+

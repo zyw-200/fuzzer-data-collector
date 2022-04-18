@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+:ccEncoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+POST: length requiredookie: test=test
+

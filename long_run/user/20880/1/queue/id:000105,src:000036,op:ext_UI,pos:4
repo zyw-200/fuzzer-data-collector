@@ -1,0 +1,6 @@
+GET /proc/sys/dev/usb/usbVendorID/**.bmp 
+w
+H0
+C
+Cot
+

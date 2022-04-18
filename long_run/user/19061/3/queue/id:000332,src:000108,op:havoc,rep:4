@@ -1,0 +1,6 @@
+GET /var/acl.tQmin.php HTTP/1.1
+Accw
+Host: 192.168.0.50
+Ct_Length: 20
+Cookie: ueest
+

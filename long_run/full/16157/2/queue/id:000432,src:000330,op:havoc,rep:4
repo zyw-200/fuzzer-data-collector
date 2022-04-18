@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: 192.168.0.ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*late
+SOAPACTION:'ëeguage: en-US,en;q=0.5
+Accept-Wncoding: gzip, deflate
+SOAPACTION:'ëeep-alive
+Upgrade-Insecure-Requests: 1 uid=CFYCmNixEa
+

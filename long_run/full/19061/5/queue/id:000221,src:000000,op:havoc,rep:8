@@ -1,0 +1,6 @@
+GET /session_mlogin.php HTTP/1.1
+Accept-Encodingwzywzywzywzyw
+Ho t: 192.16é.0.50
+Content_Length: 20    
+Cookåe: test=test
+

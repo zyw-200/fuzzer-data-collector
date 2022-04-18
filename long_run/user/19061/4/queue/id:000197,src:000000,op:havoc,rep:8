@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Accept>EncodingT gzip,teflate,sAchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Con00000000000000000000000000000000ent_HTTP/1.1
+Accept-Length: 20
+CRokie: uid=zywzywzy
+test=test
+

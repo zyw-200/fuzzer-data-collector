@@ -1,0 +1,13 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text;q=0.8
+Accept-Language: el,ae: iÿtion/xml;q=0.9,imuests: 1
+Cookie: uid=CFYCmage/webp,*/*;q=0.8
+Accept-Lang’age: en-US,en;q=0.K
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Ryquests: 1
+Cookie: uid=CFYCmNixEa
+
+‰est=test
+

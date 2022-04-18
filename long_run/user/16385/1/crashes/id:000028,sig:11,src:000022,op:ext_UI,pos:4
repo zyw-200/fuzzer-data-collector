@@ -1,0 +1,10 @@
+GET /dws/api/GetFile/ HTTP/1.1
+Host: 19.161
+Accepq=0.8
+Accept-La;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+-Requests: 1
+CoixEa
+
+=tes

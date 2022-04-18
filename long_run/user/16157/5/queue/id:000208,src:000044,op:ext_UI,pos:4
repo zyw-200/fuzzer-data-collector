@@ -1,0 +1,1 @@
+GET /tmp/resolv.conf& HTTP/1.1

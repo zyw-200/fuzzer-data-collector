@@ -1,0 +1,2 @@
+GET /                document.getElementById("recovery").style.display="";
+

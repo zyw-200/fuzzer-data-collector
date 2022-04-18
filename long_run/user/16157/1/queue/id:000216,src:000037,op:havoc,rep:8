@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.16-.0.1
+Accept: text/ÿÿÿpt: text/html,applictml,application/xhtml+xml,application/xml;qmage/webp,*/*;q=0.8
+Accept-Langua€e: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-InsecureRe‘uests: 1
+Cookie: uid=CFYCmNixEa
+ôest=test
+

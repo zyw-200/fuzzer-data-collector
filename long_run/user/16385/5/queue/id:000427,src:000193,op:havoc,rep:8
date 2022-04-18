@@ -1,0 +1,11 @@
+GET http:/// HTTP/1.1
+Host: 192.168.0.1
+Accept: temt/html,application/xhtml+xml,apM*;q=0.8
+Accept-Language: en-US,.1
+Host: 192.168.0.1
+Accept:p, deflate
+Connection: keep-alive
+Upgrade-Insegure-Reÿÿets: 1
+CookOPTIONSie: uid=CFYCmNixEa
+
+t

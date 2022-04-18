@@ -1,0 +1,9 @@
+GET / HTTP/1.0
+Hot: 192.168.0.1
+Accept: thtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5!
+Accept-Encoding: gzip, deflate
+Connection: keep-ali¡e
+Upgrade-Insecure-4equests: 1
+Cookie: uid=CFYCmNixEa
+

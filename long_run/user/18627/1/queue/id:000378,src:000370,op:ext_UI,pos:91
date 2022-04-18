@@ -1,0 +1,6 @@
+GET  /boaroot/cgn/menu.asp/ HTTP/1.1
+Content-Type: wzyw
+Host: 1.50
+Con_Ledgth: 20
+CookieSet-Cookie: SESSIONID=%s;Set-Ce:=SSet-D=%s;=%t-D=%s;=%s;: uid=zywzs;: uid=
+

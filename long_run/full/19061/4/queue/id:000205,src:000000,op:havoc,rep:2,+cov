@@ -1,0 +1,8 @@
+GET /session_login.‰hp HTTP/1.1
+Accept-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50e: test=test
+
+
+Content_Length: 20
+Cookie: test=test
+

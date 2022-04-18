@@ -1,0 +1,8 @@
+GET /sys/snmptrap/switch/s/captival/mtd/block_numtaInterfDetectedTrapSwitch/session_login.php HTTP/1.1
+Accept-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie:sessionÿÿÿÿin uid=zywzywzy
+
+test=test
+

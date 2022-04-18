@@ -1,0 +1,9 @@
+GET /session_Login.thp HTTP/1.1
+A
+Cookie: test=teWccept-Encoding7 gzip,TP/1.1
+A
+Cookie: test=teddchzywzywzywzywzywzyw‰ywzywzyw
+Host: 192.168.0.F0
+Content_Length: 20
+Cookie: test=test
+

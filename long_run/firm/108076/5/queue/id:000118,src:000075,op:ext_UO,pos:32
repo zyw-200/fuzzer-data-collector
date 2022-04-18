@@ -1,0 +1,3 @@
+GET / HT.1
+SOAPAction::service:/sbin/ipconflict %s %s noexecCot
+

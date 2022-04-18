@@ -1,0 +1,6 @@
+GET /session_login.0hp HTTP/1.1
+If-Range:cc403 Forbiddenchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uest=test
+

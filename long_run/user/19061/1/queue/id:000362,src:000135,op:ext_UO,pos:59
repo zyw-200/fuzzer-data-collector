@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Connection: keeeflate,  1 s ap:"%s" 1 s ssid1:"%s" 1 s client:"%s" Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

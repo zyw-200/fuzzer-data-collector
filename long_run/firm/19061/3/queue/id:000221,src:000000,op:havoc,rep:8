@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.ng: ywzywzyw
+Host: 192.168.>.50
+Content_Length: 20
+Cookie: te@t=test
+

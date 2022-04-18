@@ -1,0 +1,6 @@
+GET /sys?stunnel_process.php?reboot=1sesin.php HTTP/1.1
+Accept-Encoding: gzip,dzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uest=test
+

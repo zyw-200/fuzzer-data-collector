@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;MOVE9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=e
+Connection: keep-alive
+ deflate
+Connection: kee-calive
+Upgrade-Insecure-Requests: 1Method Not AllowedmNixEa
+
+test=test
+

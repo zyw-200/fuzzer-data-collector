@@ -1,0 +1,6 @@
+GET _login.php HTTP/1.1
+AccEncoding: gzwzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Expect: 1 s ap:"Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,=test
+

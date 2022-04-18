@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: Ì92.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+AccContent-Lengthept-Language: en-US,en
+SOAPACTION:'ëeep-alive
+;q=0.5
+6ccept-Encoding: gzip, deflate
+SOAPACTION:'ëeep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

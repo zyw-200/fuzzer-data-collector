@@ -1,0 +1,9 @@
+GET / HT.1
+SOAPAction:<m:GetInfoResponse xmlns:m="urn:NETGEAR-ROUTER:service:Time:1">    <NewNTPServer1>%s</NewNTPServer1>H
+A8
+Accept-Language: .5
+te
+ve
+s
+Cot
+

@@ -1,0 +1,9 @@
+GET /session_login.php HTTP/9.1
+Accept€EnModing: gzip,
+Content_Length: 20
+Cookie: teddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Content_Length: 20
+Cookie: teddchzywzywzyw
+Cookie: test=test
+

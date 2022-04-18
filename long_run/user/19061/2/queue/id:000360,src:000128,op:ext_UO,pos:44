@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+Connection: 1 s reason:"%s" 1 s version:"%s" 1 s "version unknow" .50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

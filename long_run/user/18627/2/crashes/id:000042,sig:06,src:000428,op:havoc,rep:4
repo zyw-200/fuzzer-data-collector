@@ -1,0 +1,10 @@
+GET  /boaroot/cgn/meQu.asp/ HTTP/1.1
+Ac-Encg: g
+Host: 1.50
+Content_Length: 00
+CookieSet-Cookie: SESSIONID=%s/cgn/menu.asp/ HTTP/1.1
+Ac-Encg: g
+Host: 1.50
+Content_Length: 00
+ContenSet-Cookie: SESSIONID=%s;ID=%s;=Cml;cet=%s?456789Content_Leng:;<;ID=%s;=Cml;cet=%s?456789:;<=
+

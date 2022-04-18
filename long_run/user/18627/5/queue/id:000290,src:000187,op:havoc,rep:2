@@ -1,0 +1,8 @@
+POST / HTTP/1.1
+COOKIE2pt-Encoding: gzip,deflate,sTP/1.1
+COOKIE2pt-Encoding: gw
+Host: 192.168.0.50
+COOKIE2_Length: 20
+Cookie: uid=zywzy
+ing: gw
+Host: 

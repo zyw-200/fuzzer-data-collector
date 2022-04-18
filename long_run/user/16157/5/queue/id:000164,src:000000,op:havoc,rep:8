@@ -1,0 +1,14 @@
+GET / HTTP/1.1
+Hot: text/html,applicatonixEa
+
+test=test
+
+/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.
+Accept-Encoding3 gzip, deflate
+Connection:€ke]p-alive
+Upgrade-Insecure-Requests: 1
+Cookre: uid=CFYCmNixEa
+
+test=test
+

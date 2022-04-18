@@ -1,0 +1,8 @@
+GET keep/ HTTP/1.0
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,imauage: en-US,en;qX0.5
+Accgpt-Encoding: g{ip, deflate
+Connection: keep-alive
+Upgradw-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEaRequests=test
+

@@ -1,0 +1,4 @@
+GET / HTG1
+SOAPAction::service:n:<body bgcolor=#ffffff>
+SOAPAction::service:n:hpt#Lat
+

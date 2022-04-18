@@ -1,0 +1,7 @@
+GET / HTTP/1.i
+Accept: text/html,application/xhtml+xml,application/xml;Š=0.9,image/webp,*/*;q=0.8
+,appli en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgraokie: uid=CFYCmNixEa
+

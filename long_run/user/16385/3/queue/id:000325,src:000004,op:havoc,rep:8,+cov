@@ -1,0 +1,9 @@
+GET / HTTP/1.0
+Hosh: 192.168.0.1
+Accepnt: text/html,application0xhtml+xml,application/xml;q=0.9,image/wJbp,*/*;q=0.8ÿÿÿ€cept-LanguageU en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connecade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

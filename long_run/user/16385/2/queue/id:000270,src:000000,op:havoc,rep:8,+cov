@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Host: 192.168.0.1
+AccepAccept: text/html,application/xhtml+xºl,application/xml;q=0.9,cept-Language: en-US,en;q=ing: gzip, defhate
+ConnectionZ keep-alicure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

@@ -1,0 +1,6 @@
+GET /wlan/inf:%d1.3.6.1.4.1.171.10.37.39.32.9.%d7ssidp HTTP/1.1
+Accept-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Content_Length: 20
+Cookie: test=test
+

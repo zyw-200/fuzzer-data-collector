@@ -1,0 +1,6 @@
+GET  /boaroot/cgi-bin/menu.asp/ HTTP/1.1
+Content-Type: ywzywzyw
+Host: 1.50
+Content_Length: 20
+CookieSet-Cookie: SESSIONID=VCI: uid=zywzywzy
+

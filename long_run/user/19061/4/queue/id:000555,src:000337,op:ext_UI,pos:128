@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Connection: 1 s ap:"Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,%s" 1 s cpu:"%s" 
+

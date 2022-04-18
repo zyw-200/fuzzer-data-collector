@@ -1,0 +1,7 @@
+GET / HTTP/1.!Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,applicatQon/xml;q=0.9,image/webp,*/*;q=08
+Accept-Language:ÿÿÿUS,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: kMep-alive
+Upgrade-InsecureGETquests: 1
+Cookie: uid=CFYCmNixEa

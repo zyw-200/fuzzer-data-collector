@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+ ost: 192.168.0.1
+Accep8
+Accept-La;q=0.5
+Accept-Eeflate
+Connection: keep-alive
+-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+=tes

@@ -1,0 +1,12 @@
+GET Ø HTTP/1.1
+Hosé: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,ima1.1
+Hosé:*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-ncoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=ñest
+

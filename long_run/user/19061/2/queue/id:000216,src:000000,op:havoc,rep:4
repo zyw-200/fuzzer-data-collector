@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzy.168.0.5I
+Conent_Length: 20Cookie: uid=zywzywzy
+
+test=test
+

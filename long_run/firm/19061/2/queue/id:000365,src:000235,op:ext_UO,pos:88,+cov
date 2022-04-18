@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.9
+Accept-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Content-Type: %s50
+Content_Length: 20
+Connection: close
+

@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+User-agent:Pg: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Content_Length: 20
+Coogth: 20
+Cookie: test=tÿÿ
+kie: test=tÿÿ
+

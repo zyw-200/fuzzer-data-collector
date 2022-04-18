@@ -1,0 +1,10 @@
+GET ? HTTP/1.1
+Host:.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;b=0.9,image/webp,*/*;ept-Language: en-US,ef;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

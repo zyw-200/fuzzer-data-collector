@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Hoeep :98.0.1
+Accept: text/html,applicMtion/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-LageX en-US,en;q=0.5
+Accept-Eing: gzip, deflate
+Connectio-- after pathinfo checkn: keep-alive
+Upgr-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+=tes

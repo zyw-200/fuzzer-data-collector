@@ -1,0 +1,5 @@
+GET / HT.1
+Host: 19..168.0.1
+A8
+SOAPAction:<R:service:WLANCon
+SOAPAction:<R:service:WLANConfigurRespon

@@ -1,0 +1,8 @@
+POST to file rej //var/mntlogin.php HTTP/1.1
+Acg: gzip,deflate,sywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

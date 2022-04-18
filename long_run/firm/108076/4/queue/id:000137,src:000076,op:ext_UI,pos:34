@@ -1,0 +1,7 @@
+GET / HT.1
+SOAPAction:H:service:strings /dev/mtd0 | grep -ie u.boot | grep -i -e dni | awk -F i '{ print $2; }' | awk '{ print $1; }' > /tmp/uboot_versionpt-Language: .5
+te
+ve
+s
+Cot
+

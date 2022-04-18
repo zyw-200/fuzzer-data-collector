@@ -1,0 +1,6 @@
+GET /sys_stunnel_process.php?%ssession:%d/macp HTTP/1.1
+Accept-Encoding: gzte,szywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uest=test
+

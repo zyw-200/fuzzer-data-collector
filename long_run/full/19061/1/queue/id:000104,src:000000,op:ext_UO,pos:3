@@ -1,0 +1,5 @@
+GETsnmptrap -v 1 -c %s %s %s "" %d 0 ""-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Content_Length: 20
+Cookie: test=test
+

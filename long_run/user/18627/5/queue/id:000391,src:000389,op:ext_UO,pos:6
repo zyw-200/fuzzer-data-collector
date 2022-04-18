@@ -1,0 +1,7 @@
+GET  /..aroot/cgi-bin/..nu.asp/.. HTTP/1.1
+Accept-Encoding: gziywzywzywzywzywzyw
+Host: 192.168.0.50
+Content_Length: 20
+Cookie: uid=zywzy
+
+t

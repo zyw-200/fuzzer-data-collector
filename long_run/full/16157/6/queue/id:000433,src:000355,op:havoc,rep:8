@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+CONTENT-LENGTH:Host: 192.168.0.1
+Accept: text/html,a
+USER_AGENT: keep-alivpplication/xhtml+xmUS,en;ication/xml;q=0.9,imLENGTHage/webp,*/*;q=0.8
+Accept-LanguageZ en-US,en;q=0.ion5
+Accept-Encodi‰g: ‰zip, deflate
+USER_AGENT: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

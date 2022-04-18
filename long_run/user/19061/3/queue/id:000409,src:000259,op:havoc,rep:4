@@ -1,0 +1,10 @@
+GET /session_login.php HTTP/1.1
+st: 1920
+Ct_LeAccept-Enc^ding: gziyw
+Host: uid=zyt=TTP/1.1
+st: : 1927168.0.50
+Conent_Length: 20
+Cookiq: uid=zyt=TTP/1.1
+st: .92.168.0.50
+Ctest
+

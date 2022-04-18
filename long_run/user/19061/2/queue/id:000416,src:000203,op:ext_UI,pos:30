@@ -1,0 +1,7 @@
+GET /session_logiclose_rfd: %d1.3.6.1.4.1.171.10.37.39.32.9.%d50hp HTTP/1.1
+Accept-Encoding: gywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20Cookie: uid=zywzywzy
+
+test=test
+

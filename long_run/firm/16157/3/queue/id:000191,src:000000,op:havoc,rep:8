@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/hGETtml,applcation/xhtml+xml,ppplication/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language////////en;q=0.5
+///en;q=0.5
+Accept-EncodiAccept-Encoding: gzip, deflate
+CoKnection: keep-alive
+Upp,*/*;q=0.8
+Accepgrade-Insecure-Requests: 1
+Cookie: uid=Csecure-Re
+

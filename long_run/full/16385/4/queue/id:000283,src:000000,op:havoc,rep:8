@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+ccet: 192.168.0.1
+Accept: text/html,applicationl;q=0.9,image/webp,*/*;q=€ÿÿÿ
+Accept-Language: en-oS,en;q=0.5
+Accept-Encoding: gzip, Ùeflate
+Conn: keep-alive
+Upgrade-Insecure-RequestsEa
+
+test=test
+

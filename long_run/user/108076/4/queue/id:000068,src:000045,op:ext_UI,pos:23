@@ -1,0 +1,9 @@
+GET / HT.1
+SOAPAction:<R:service:DeviceInfo:1">    <ModelName>%s</ModelName>H
+A8
+Accept-Language:
+te
+ve
+s
+Cot
+

@@ -1,0 +1,18 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Content-Type: tml,application/xhtml+xml,applapplication/xml;q=0: gzip, cation/xml;q=0.9,image/webp,*/*;q=0.8
+Content-Type: text/htmlen;q=0.5
+Accept-Encoding: gzip, deflate
+Co.9,image/webp,*/*;q=0.8
+Content-Type: text/htmlen;q=0.5
+Accept-Encoding: gzip, deflatication/xml;q=0.9,image/webp,*/*;q=0.8
+Content-Type: text/htmlen;q=0.5
+Accept-Encoding: gzip, cation/xml;q=0.9,image/webp,*/*;q=0.8
+Content-Type: text/htmlen;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecdeflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: HTTP1
+Cookie: uid=CFYCmNixEa
+

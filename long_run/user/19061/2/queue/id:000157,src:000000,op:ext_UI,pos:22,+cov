@@ -1,0 +1,8 @@
+GET /session_login.php %4d HTTP/1.1
+Accept-ding: gzip,deflazywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

@@ -1,0 +1,7 @@
+GET /router-info.htm HTTP/1.1
+Host: 1t/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-LangContent-Typeen;q=0.5
+Accept-Encoding: gzip, deflate
+outConnection: keep-alive;;;;;;;;;;;;;;;;;;;;;;;;;;Upgrade-Insecure-Requests: 0û
+Cookie:¬uic=CFYCmNixEa
+

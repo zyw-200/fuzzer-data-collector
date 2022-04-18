@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1-%d
+Accept-5ncoding: gzip,ˆhpddchzywzygzywzywzywzywzywzywzyw
+Host:B192.168.0.50
+Content_Length: 20
+CookiCo test=test
+get_path_info: open("%s") = %d

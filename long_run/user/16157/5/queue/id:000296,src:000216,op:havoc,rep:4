@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Hosep-alive
+Upgrade-Inse: text/html,application/xhtml+xml,ate
+SOAPACTION: keep-alivewebp,*/*;q=0.8
+Accept-Language: en-ÕS,en;q=0.5
+Accept-Encoding: gzip, deflate
+SOAPACTION: keep-alive
+Upgrade-Insecu: 1
+Cookie: uid=CFYCmNixEa
+

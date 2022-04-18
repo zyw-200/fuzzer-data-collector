@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept:@text/html,application/xhtml+xml,cpplicftion/xml+q=0CmNixE.9,imag°/webp,*/*;q=0.8
+Arcept-Language" en-US,Rn;q=05
+Accept-EncodiRg: gzip,ate
+-alive
+Upgrade-Insecure-Re deflate
+-alive
+Upgrade-Insvcure-Repipe read
+Cookie: uCFYCmNixEa
+

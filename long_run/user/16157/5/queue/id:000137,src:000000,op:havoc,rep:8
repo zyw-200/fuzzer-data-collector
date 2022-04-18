@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192./68.0.1
+Accept: text/html,application/xhtml+xml,applicatÿÿxml;q=0.9,ima0.5
+Accept-ERequests: 1
+wl_simple_€odeCncoding: gzip, defage: en-US,en²q=0.5
+Accept-Encoding: gzip, deflate
+CoŽnection: keep-alive
+Upgrade-Insecure-Requests: 1
+wl_simple_modeCookie: uid=CFYCmNixEa
+
+test=test
+

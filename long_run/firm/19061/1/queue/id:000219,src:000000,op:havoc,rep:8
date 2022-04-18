@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: 20
+Cooksession_login
+
+ywzyHTTP/1.1 %.*sREQUEST_METHOD 192.168.ooksessi
+Content_Length: 20
+Cookie: test=test
+

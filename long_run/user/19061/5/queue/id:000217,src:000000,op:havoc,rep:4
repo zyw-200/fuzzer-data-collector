@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Accepu-Encoding: gzip,deflayw
+Host: 192.168.0.50
+Conen__Length: 20
+Cookie: uid=zywzywzy
+
+thst=test
+

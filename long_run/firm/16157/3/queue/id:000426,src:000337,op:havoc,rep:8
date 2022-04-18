@@ -1,0 +1,11 @@
+GET /router-info.htm HTTP/1.1
+Host: 192.168.0.1
+AcceTypeptecure-Requests: 1
+Cookie: ui+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: Ln-US,en;q=0.5
+›ccept-Encoding: gzip, deflate
+Connectien;q=0   SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">.5
+Accept-Encoding:on: Oeepive
+Upgrade-Insecure-Requests: 1
+Cookie: uid]CFYCmNixEa
+

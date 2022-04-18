@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: kfe
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

@@ -1,0 +1,25 @@
+start_time     : 1629262742
+last_update    : 1629350648
+fuzzer_pid     : 79
+cycles_done    : 0
+execs_done     : 599394
+execs_per_sec  : 7.09
+paths_total    : 314
+paths_favored  : 66
+paths_found    : 313
+paths_imported : 0
+max_depth      : 3
+cur_path       : 2
+pending_favs   : 66
+pending_total  : 313
+variable_paths : 4
+bitmap_cvg     : 0.10%
+unique_crashes : 22
+unique_hangs   : 0
+last_path      : 1629325318
+last_crash     : 1629314104
+last_hang      : 0
+exec_timeout   : 800000
+afl_banner     : qemu-system-mips
+afl_version    : 2.06b
+command_line   : ./afl-fuzz-full -m none -t 800000+ -i ./inputs -o ./outputs_full -x keywords -QQ -- ./qemu-system-mips -m 256 -M malta -kernel ./vmlinux.mipseb -drive if=ide,format=raw,file=./image.raw -append root=/dev/sda1 console=ttyS0 nandsim.parts=64,64,64,64,64,64,64,64,64,64 rdinit=/firmadyne/preInit.sh rw debug ignore_loglevel print-fatal-signals=1 user_debug=31 firmadyne.syscall=0 -nographic -net nic,vlan=0 -net tap,vlan=0,id=net0,ifname=tap16385_0,script=no -net nic,vlan=1 -net socket,vlan=1,listen=:2001 -net nic,vlan=2 -net socket,vlan=2,listen=:2002 -net nic,vlan=3 -net socket,vlan=3,listen=:2003 -aflFile @@

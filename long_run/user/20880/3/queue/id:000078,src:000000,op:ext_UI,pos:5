@@ -1,0 +1,8 @@
+GET /<wan_dhcpc_expired_time></wan_dhcpc_expired_time> HTTP/1.1
+wzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzyw
+
+test=test
+

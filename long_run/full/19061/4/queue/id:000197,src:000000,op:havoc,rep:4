@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Accept-E: 192.168.0.50
+Content_Lenncoding: gzip,ddchzywzywzywzywzywzywzy HTTP/1.1
+Accept-E: 192.16wzywzyw
+Host: 192.168.0.50
+Content_Le@gtUserFileh: 20
+Cookie: test=test
+

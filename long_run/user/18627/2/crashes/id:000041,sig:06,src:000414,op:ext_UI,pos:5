@@ -1,0 +1,11 @@
+POST /HNAP1// HTTP/1.1
+Connection: clo
+Connection: clyw
+Host: 19 0
+Content_Length: 20
+Connection: clos
+Connection: Kee
+tst: 19 0
+Content_Length: 20
+Connection: t
+

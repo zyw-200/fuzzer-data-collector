@@ -1,0 +1,6 @@
+GET /session_lzgin.php HTTP/1.1
+Accept-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+: 192.168.0.50
+Content_Length: 200
+Cookie: test=test
+

@@ -1,0 +1,12 @@
+GET /currentsetting.htm HTTP/1.1
+H{st: 192.168.0.1
+Accection: keep-aliÿe
+Upgradeept: tewt/html,app5
+Accept-Encoding: gzilication/xhtml+xml,appliUation/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecuye-Requests: 1
+Cookie: uid=CFYCmNizEa
+
+te

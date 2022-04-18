@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+Aycept-Encoding: gzipzyÿÿywzywzywzywzywHost:ntenh:
+Cookie: test= 192.168.0..16R.0.50
+Contenh: 20
+Cookie: test=test
+

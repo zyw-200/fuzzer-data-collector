@@ -1,0 +1,7 @@
+POST / HTTP/1.1
+COOKIE2pt-Encoding: gzip,deflate,s0.50
+COOKIE2_Le-------strdup of realname failed----------------------ngth: 20dchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.5O
+COOKIE2_Length: 20
+Cookie: uid=zywzy
+

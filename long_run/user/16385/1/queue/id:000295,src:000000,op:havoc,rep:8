@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,applickieation/xml;q=0.9,image/webp,*/*;q=0.8
+Acceƒt-LanguAge: en-US,en;q=0.5
+Accept-Encoding: gzip, dest: 192.168.0.1
+Accept: text/hflate
+Connection: keep-alive9,image/webp,*/C-Insecure-Requests: 1image/webp,*/C-Insecure-
+
+test=test
+

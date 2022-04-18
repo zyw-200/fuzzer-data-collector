@@ -1,0 +1,15 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,applist: 192.168.0.1
+Accept: textxml;q=0.9,image/webpserver.network-backend h8.0.1
+Accept: textxml;qas a unknown192lue:,*6*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzists: 1
+Cookie: t: 192.168.0.1
+Acate
+Connectiod: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

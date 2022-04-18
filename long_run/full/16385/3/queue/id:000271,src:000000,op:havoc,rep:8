@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Èost: 192.16Q.0.1
+Accept: text/html,apmlication/xhtml+xml,applicatˆÁn/xml;q=0.9,
+Èostimage/webp,*/*;q=0.8
+Accept-Laication/xml;q=0.9,
+ÈostiAccept-Encoding: gzip, deflate
+Connection: keep-alserver.portive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

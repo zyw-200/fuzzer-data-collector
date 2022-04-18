@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: /html,application/xhtml+xml,applic;q=0.8
+Accept-Lançuage: en-US,en;q=Ä.5
+ing: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYtest=test
+

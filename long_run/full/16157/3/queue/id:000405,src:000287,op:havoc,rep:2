@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+xhtml+xml,app;q=0.-Language: en-U5
+:ccept,en;q=0.5
+:cce, deflS,en;q=0.5
+:ccept,en;q=0.5
+:cce, deflate
+Connection: keep-alive
+uid=CFYCmNixEa
+

@@ -1,0 +1,8 @@
+GET %s//ion_login.php HTTP/1.1
+Acceing: gziywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+Connection:Allow: GET, HEAD close
+test=test
+

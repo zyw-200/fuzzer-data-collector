@@ -1,0 +1,10 @@
+GET /dws/api/GetFile/ HTTP/1.1
+Host9à192.168.0.1
+Aq=0.8
+Accept-La;q=0.5
+Accept-Eeflate
+Connection: keep-alive
+-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+=tes

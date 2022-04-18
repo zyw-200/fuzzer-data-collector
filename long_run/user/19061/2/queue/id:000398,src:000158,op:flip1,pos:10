@@ -1,0 +1,7 @@
+GET /sessi/n_login.php_int HTTP/1.1
+Accept-Encoding: gzip,deflazywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

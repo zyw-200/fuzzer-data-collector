@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzip,dywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Content-Length: ywzy
+Transfer-Encoding: chunked
+test=test
+

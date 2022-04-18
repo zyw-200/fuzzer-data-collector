@@ -1,0 +1,8 @@
+GET  1>/dev/null 2>&1  HTTP/1.1
+Accept-Encoding: gzip,deflate,sywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

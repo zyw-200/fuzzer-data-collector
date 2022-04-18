@@ -1,0 +1,5 @@
+GET /session_login.php HTTP /session_logincoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Contenth: 20
+CookTTP test/session=test
+

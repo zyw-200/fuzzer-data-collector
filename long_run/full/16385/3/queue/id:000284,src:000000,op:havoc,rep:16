@@ -1,0 +1,7 @@
+GET 7 HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,applixation/xhtml+xmConfiguration contains deprecated keys. Going down.t-Languaoe: en-US,tserver.username: 192.168.0.1
+Accept: g: gzio, deflate
+Connection: kiep-alive
+UpSSL: You specified ssl.verifyclient.activate but no ca_filetesv
+

@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Transfer-Encoding: chunt-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Transfer-Encoding: chunkedt_Length: 20
+Cookie: test=test
+

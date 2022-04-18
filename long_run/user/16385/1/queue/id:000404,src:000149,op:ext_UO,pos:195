@@ -1,0 +1,5 @@
+GET / HTTP/1.1
+Host: 19zywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzyw
+Accept-Encoding: gzip, deflate
+Connection:libev not supported, try to set server.event-handler = "poll" or "select"=test
+

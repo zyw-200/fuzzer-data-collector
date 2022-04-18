@@ -1,0 +1,7 @@
+GET /mount >8
+A.5
+te
+ve
+syslogd -C %d -L -R %s:514 &s: 1
+Cot
+

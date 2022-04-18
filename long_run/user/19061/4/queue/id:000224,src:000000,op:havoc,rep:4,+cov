@@ -1,0 +1,9 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzitest=test
+
+p,ET /session_login.php HTTywzywzywzywuser limited92.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+y

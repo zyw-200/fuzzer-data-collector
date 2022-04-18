@@ -1,0 +1,10 @@
+GET  /n/menu.asp/ HTTP/1.1
+Ac-dncg: gzip,
+Host: 1.50
+Content_Length: 0!
+CookieSet-Coo: SE
+Ac-Encg: gzip,
+Host: 1.50
+Content_Length: 0!
+CookieSet-Cookie: SESSIONID=%s;Set-Coo:S=%s; SESNID=oki;=; SESNID=%si;=%s;=zwz‹
+

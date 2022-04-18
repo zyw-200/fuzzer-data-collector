@@ -1,0 +1,7 @@
+GET sion_login.php HTTP/1.1
+Accept-Encoding: gzip,deflate,sywzywzywzywzyw
+Connection: keep-alivenent_Length: 20
+Expect: uid=zywzywzy
+
+test=test
+

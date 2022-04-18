@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+Connection: Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,0
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

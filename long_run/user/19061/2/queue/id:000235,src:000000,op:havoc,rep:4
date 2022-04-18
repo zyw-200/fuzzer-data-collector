@@ -1,0 +1,7 @@
+GET /RemoteAddresssession_login.php HTTP/1.1
+Accept/runtime/wan/inf:1/mac-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host:0
+Cookie:4uid=zywzywzy
+
+test=test
+

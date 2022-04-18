@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+tt: 192.168.0.1config_state
+AcceHosost 192.16.0.1
+Acceptt: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, defˆate
+1
+AcceHosost 192.168.Connec~ion: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

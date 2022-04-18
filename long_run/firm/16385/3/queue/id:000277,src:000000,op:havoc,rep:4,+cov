@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Htst: 192.168.0.1
+Accept: text/html,g: gzip, deflate
+Connection: application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,e‘;q=0.5tttttttttt
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzi
+Host: 192.168.0.50
+Cywzywzywzyw
+Host: 192.168.0.50
+Content_Length: 20
+>ookie: test=test
+

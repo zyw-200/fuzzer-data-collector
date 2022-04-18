@@ -1,0 +1,6 @@
+GET /login.cgi HTTP/1.1
+ywzyw
+H0
+Conent_Length: 20
+Cookie: ui=test
+

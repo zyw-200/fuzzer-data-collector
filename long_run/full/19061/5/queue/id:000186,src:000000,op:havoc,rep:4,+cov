@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gziphpp,ddchTTPzywzywzywywzywzyw
+Host: 1w
+Host: 192.168.0.50
+>ontent_Length: 20
+Cookie: test=test
+

@@ -1,0 +1,10 @@
+GET / HTTP/1.1í
+REFERER:ost: 192.168.0.1
+Accept: text/hl+xml,application7xml;q=0.9,image/webp,*/*;quage: en-US,en;q=0.5
+Aen-USHTTP/1.1
+REFERER:ost: 192.16,en;q=0.5
+Accept-Encoding: gzip, deflate
+CONTENT-LENGTHConnection: keep-alive
+Upgradu-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

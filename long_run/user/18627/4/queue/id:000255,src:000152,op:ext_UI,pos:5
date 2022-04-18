@@ -1,0 +1,2 @@
+POST /bin:/usr/bin:/usr/local/bin//cgi-bin/index.asp HTTP/1.1
+A

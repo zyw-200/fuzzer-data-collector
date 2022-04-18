@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Bccept: text/html,application/xhtmljxml,applicatÿn/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language:late
+Connection: keep-alive
+Up: gzip, deflate
+Connection: keep-alive
+UpçradeInsecure-Requests: 5
+Cookie: uid=CFYCmNixEa
+
+test=teut
+

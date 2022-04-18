@@ -1,0 +1,6 @@
+GET /var/acl.temin.php HTTP/1.1
+Accept-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uest=test
+

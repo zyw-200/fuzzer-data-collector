@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+AGETpt: text/html,application/xhtml+xml,applrcation/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ed-US,en;q=0.5
+Accept-
+Bost: 192.168.0.1
+Encoding: gzip, d1flate
+C_nnection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYemNixEa
+

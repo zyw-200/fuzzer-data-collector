@@ -1,0 +1,14 @@
+GET /router-info.htm HTTP/1.1
+Hts: 1
+Cookie: 
+Hooutst: 19eaext/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;
+Hts: 1
+Cookie: 
+Hoq=0.8
+Accept-Language: en-UU,.5
+Accept-Enhoding: gzip, deflaçe
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: 
+Hooutst: 19ea
+

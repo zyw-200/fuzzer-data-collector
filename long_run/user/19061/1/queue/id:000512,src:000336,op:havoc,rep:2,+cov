@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+Accept-EncodingLength: 20
+Range:ookwzywzywzywzyw
+Host: 192.168.0.50
+CoAPCoInterfClearTrapnent_Length: 20
+Range:ookie: uest=test
+

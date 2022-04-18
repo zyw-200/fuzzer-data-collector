@@ -1,0 +1,6 @@
+GET /sessiTP/1.1
+Accept-Encoding: gzip,ddchxywzywzywzywzywzywzyzywzyw
+Host:  192.168.0.50
+Content_Length: 20
+Cookge: test=test
+

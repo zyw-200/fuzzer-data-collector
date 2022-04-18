@@ -1,0 +1,8 @@
+GET / HTTP/1.1warning: server.set-v6only will be removed soon, update your config to have different sockets for ipv4 and ipv6-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

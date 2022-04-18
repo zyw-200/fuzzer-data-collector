@@ -1,0 +1,6 @@
+GET /debuginfo.htm HTTP/1.1ŠHost: 192.168.0.1
+Accept: text/html,application/xhtml+xml,applicat/webp,*/*;qëAccept-Language: en-US,en;q=0.5
+Accept-Encoding: [ziblock_requestonnection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNi„Ea
+

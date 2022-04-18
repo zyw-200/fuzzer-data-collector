@@ -1,0 +1,9 @@
+GET /session_login.php HTTP/1.1
+If-UnmodifiedConent_Length: 20
+C-Since:ccept-: gzip,deflate
+Conent_Length: 20
+Cookie: ues,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192v168.0.50
+Coההההההההההההההההההההההההההnent_Length: 20
+Cookie: uest=test
+

@@ -1,0 +1,7 @@
+GET / HTTP/0000000000000000000000000000000 text/html,application/xhtml+xml,applicatipn/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Eneoding: gzip, deflate
+Connection: keep1alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

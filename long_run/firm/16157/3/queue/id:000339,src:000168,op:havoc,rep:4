@@ -1,0 +1,9 @@
+GET /router-info.htm HTTP/1.1
+Host: 192.168.0.1
+A_cept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gziblock_read_fdsetp, deflate
+Connectioive
+Upgrade-Insecure-Requaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+2ost: 192.668.0.1
+Accept~ text/html,appli168caxhtml+xml,aÅplication/xml;q=%.9,imagÂ/webp)*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-7ncoding: zip, deflate
+
+ConÄection: keep-alive
+Upgrade-Insecur -Requests: T
+Cooest=test
+

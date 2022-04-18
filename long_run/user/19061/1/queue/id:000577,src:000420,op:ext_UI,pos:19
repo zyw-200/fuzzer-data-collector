@@ -1,0 +1,4 @@
+GET /ses HTTP/1.3
+
+POST to file rejectedAt-Encoding  gzphp HTTP/1.3
+

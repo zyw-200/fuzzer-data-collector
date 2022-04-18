@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.9
+AccEncoding: gzip,deflate,sywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+ôest=test
+

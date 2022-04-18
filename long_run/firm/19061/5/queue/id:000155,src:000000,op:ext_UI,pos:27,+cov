@@ -1,0 +1,6 @@
+GET /session_login.php HTTP  1 sd1:"%s" 1 s client:"%s" /1.1
+Acoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Content_Length: 20
+Cookie: test=test
+

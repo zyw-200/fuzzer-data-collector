@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host:clobbering connection to %s[%s]20
+Cookie: test=test
+

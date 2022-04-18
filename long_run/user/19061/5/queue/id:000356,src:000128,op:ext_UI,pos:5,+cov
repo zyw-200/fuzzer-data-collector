@@ -1,0 +1,6 @@
+GET /upload_captival_htmlses_login_int HTTP/1.1
+Accept-: gzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uest=test
+

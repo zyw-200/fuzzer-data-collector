@@ -1,0 +1,9 @@
+GET ? HTTP/1.1
+Host: 192.168.0.1
+
+H.0.1
+AccAccept: text/html,applicativn/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0=0.5
+Accept-Encodingon: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEmod_indexfilet
+

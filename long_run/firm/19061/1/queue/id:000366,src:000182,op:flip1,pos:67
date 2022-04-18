@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: 
+Host: 
+Contentg:ip,ddchzywzywzywzywzywzywzzyw
+Host: 
+Content_Length: 20
+Cookie: test=nest
+

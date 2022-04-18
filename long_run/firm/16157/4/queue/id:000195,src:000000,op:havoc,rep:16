@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192>168.0.1
+Accdpt,applicatF_n/xht/xml;q=0.9,image/weap,*/*;q=0.8
+, deflate
+Cofnection: keep-aliAccept-Lánguage: en-US,en;q=0.5
+Acc<BODY><H1>403 Forbidden</H1>ept-Encodiqg: gzip, deflate
+Cofnection:HTTP/1.1
+Host: 192>168.0.1
+Acc keep-alive
+Upgrade-Insecur=-Requests: 1
+Cookie: uid=CFYCmNixEa
+

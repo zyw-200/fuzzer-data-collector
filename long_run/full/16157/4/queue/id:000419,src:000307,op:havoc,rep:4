@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+HCGI/1.12.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,imip, deflate
+USER_AGENT: keep-age/webp,*/*;q=0.8
+Accept-Languag€ÿ en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+USER_AGENT: keep-alive
+Upgrade-Insecure-Requests:  
+Cookie: uid=CFYCmN
+USER_AGENT: keixEa
+

@@ -1,0 +1,5 @@
+GET  /n/menu.asp/ HTTP/1.1
+Ac-th: 0!
+CookieContent_Length: 0!
+CookieSet-Coo:S=%s; SESNID=oki;=; SESNID=%si;=%s;SS=%s; SESNID=oki;=; SESNID=%si;=%s;S=%s; SESNID=oki;=; S1SNID=%si;=%s;=%s; SESNID=oki;=; S1SNID=%si;=%s;=
+

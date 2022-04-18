@@ -1,0 +1,5 @@
+GET /syslogd -C %d -b 0 &e
+ve
+s: 1
+Cot
+

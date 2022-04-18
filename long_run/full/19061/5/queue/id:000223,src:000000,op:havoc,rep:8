@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+Accept-Encodingm†dirvar/captivalwz
+Host -p'/var/captivalwz
+Host: 192.168.0.50
+ConteVt_Length: 20
+Cookie: test=test
+

@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: tExt/html,application/xhtml+xkeep-alive
+Upgrade-Insec-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflatcontent-length eepken:e
+Connection: kde-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=testê
+

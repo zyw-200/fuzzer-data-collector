@@ -1,0 +1,9 @@
+GET / HT.1
+SOAPAction:<m:GetInfoResponse xmlns:m="urn:NETGEAR-ROUTER:service:DeviceInfo:1">    <ModelName>%s</ModelName>H
+A8
+Accept-Language: .5
+te
+ve
+s
+Cot
+

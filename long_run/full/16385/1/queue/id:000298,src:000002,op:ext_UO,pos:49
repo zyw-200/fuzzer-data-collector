@@ -1,0 +1,7 @@
+GET ? HTTP/1.1
+Host: 192.168.0.1
+Accept: thtml,zywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywzywnection: keep-alive
+Upgrade--Requests: 1
+Cookie: uid=CFYCmNixEa
+
+=tes

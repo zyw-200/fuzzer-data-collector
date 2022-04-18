@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.ml;q=0.9,application/xhtml+šml,application/xml;q=0.9,image/webR,*/*;sssssssssq=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection:/keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie:zip, deflate
+Connection:/keep-a uid=CFYCmNixEa
+
+test=test
+

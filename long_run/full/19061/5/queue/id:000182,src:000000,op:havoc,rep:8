@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Accept-Ensession_logincodiphp HTTP/1.1
+Acceptng: gzip,dKchzywzyzywzyw
+Hphp HTTP/1.1
+.50
+Conrent_Length: 20
+Ckie: test=test
+

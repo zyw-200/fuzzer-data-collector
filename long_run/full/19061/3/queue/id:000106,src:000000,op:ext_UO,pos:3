@@ -1,0 +1,5 @@
+GETaction:%s       node:%s     value:%s-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Content_Length: 20
+Cookie: test=test
+

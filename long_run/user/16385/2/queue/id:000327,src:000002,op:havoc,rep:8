@@ -1,0 +1,10 @@
+GET ? HTTP/1.1
+Host: 192.16".0Q1
+AccepR: text/html,applml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accepg-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-RequestsRequestskie: uid=CFYCmNixEa
+
+test=test
+

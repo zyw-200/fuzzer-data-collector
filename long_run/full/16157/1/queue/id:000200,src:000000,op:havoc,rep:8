@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t
+Accepz: texst: 192.1t/htext/html,applicatinn/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-LanguCreate the file %s failedage: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connec ion: keep-alive
+Upgrade-Insecure-Requesrs: 1
+Cookie: uid=CFYCmNixEa
+

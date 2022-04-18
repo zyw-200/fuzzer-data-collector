@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+If-Modified-Since:ccept-: Mathopd/1.51.3.6.1.4.1.171ywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uest=test
+

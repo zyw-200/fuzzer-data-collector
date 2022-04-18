@@ -1,0 +1,12 @@
+GET / HT.1
+Host: 192.168.0.1
+SOAPAction:A8:sT / HT.1
+Host: 192.168.0.1
+SOAPAction:A8:service:The httpd server is.168.0.1
+SOAPAction:A8:sT / HT.1
+Host: 192.168.0.1
+SOAPAction:A8:service:The httpd server is running ...s
+Cervice:The running ...s
+Cervice:The httpd server is running ...s
+Cot
+

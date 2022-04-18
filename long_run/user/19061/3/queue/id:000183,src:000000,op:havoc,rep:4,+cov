@@ -1,0 +1,13 @@
+GET /session_login.php HTTP/1.1
+Acst: 192.168.0
+Conent_Length: 20
+Cookie: .50
+Coneflate,sd.50
+Conent_Length: 20
+Cookw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zqwzywzy
+
+test=test
+

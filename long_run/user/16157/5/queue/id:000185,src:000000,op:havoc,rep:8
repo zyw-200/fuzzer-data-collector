@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text+html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;qsigchldccept-Language: en-US,en;q=GET
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+U==========================pgrade-Insecure------------------------------Request: 1/hardware_version
+Cookie: uid=CFYCmNixEa
+
+test=test
+

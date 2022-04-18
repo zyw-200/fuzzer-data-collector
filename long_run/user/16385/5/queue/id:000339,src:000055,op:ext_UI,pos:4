@@ -1,0 +1,10 @@
+GET /HNAP1/ HTTP/1.1
+Host: 198.0.1
+Accept: text//xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+;q=0.5
+eflate
+-alive
+s: 1
+CoixEa
+
+=tes

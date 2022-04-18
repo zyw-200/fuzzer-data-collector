@@ -1,0 +1,6 @@
+GET  /.ASP HTTP/1.1
+Accept-ding: gzywzywzywzywzyw
+Host: 192.168.0.50
+Cotent_Length: 20
+CookieSet-Cookie:&quot; SESSIONIkie:&quot; SESSIONID=%s;D=%s;: uid=zywzywzy
+

@@ -1,0 +1,9 @@
+GET /dws/api/GetFile/ HTTP/1.1
+Host: 192.168.0.1Áccep,image/webp,*/*;q=0.8
+Accept-La;q=0.5
+Accept-Eeflate
+Connection: keep-alive
+-Requests: 1
+CoixEa
+
+=tes

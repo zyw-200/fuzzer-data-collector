@@ -1,0 +1,6 @@
+GET /session_login.hp HTTP/1.0
+AccEncodConent_Lengthing: ggip,deflate,sywzywzywzywzyw
+Hèst: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzt
+

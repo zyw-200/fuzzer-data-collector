@@ -1,0 +1,10 @@
+GET pp/ HTTP/1.1
+Ho’t: 192.168.0.1
+Accept: text/html,application/xhtml+/1.1
+Ho’t: 192.168.0=0.9,imace: en-US,en;q=0.state for fd-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixƒa
+
+test=test
+

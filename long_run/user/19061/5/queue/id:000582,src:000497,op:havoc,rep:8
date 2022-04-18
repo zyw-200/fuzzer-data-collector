@@ -1,0 +1,10 @@
+GET session_login.phphp HTTP/1.1
+User-agent:ccHTTP/1.1
+User-agent:
+Conent_Length: 2J
+Cookie: ue0
+Cookie: uest
+Host:pppppppppp 19K.168.+.50
+Conent_Length: 20
+Cookie: uest=test
+

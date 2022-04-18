@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzip,dte,swzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+If-Unmodified-Since:oo;submit COMMIT
+

@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Xost: 198.0.1
+Accept: text/html,applicaapplication/xml;q=0.9,image/webp,*ip, deflate
+Connection:n-US,en;q=0.5
+Accept-Eing: gzip, deflate
+Connection:gzip, keep-alive
+Upgr-Requests: 1
+Cookie:ùuid=CFYCmNixEa
+
+=tes

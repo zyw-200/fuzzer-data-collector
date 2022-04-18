@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/9.1
+Accept-Encoding:                  0
+Cooki:: test=test
+Host: 192.168.0.50
+Content_1e…gth: 20
+Cooki:: ’est=test
+

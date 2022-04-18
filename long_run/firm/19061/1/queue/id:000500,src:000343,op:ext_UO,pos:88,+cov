@@ -1,0 +1,6 @@
+GET /sys_stunnel_process.php?reboot=1sesin.php HTTP/1.1
+Content-Type: %s gzip,dzywzyw
+Content-Type: %s50
+Content_Length: 20
+Cookie: test=test
+

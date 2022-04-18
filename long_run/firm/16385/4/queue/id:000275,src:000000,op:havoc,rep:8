@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,appli
+Bccept-Lang––––––––––––––––––––––––licatNon/xml;q=0.9,iCONNECTmage/webp,*/*;q=0.8
+Bccept-Language: en-US,en;q=05
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+UpgradeAInsecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

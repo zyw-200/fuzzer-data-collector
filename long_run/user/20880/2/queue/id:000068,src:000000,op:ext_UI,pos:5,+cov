@@ -1,0 +1,6 @@
+GET /post_login.xml?hash=* HTTP/1.1
+ywzyw
+H0
+Conent_Length: 20
+Cookie: ui=test
+

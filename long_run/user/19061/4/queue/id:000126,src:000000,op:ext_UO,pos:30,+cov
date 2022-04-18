@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1. 1>/dev/null 2>&1 : gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

@@ -1,0 +1,1 @@
+GET //cgi-bin/<script>window.top.location.replace("http://www.mywifiext.com/")</script>

@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,applicrtion/xhl+xml,application/xml;qþq=0.9,image/webp,*/*;q=0.8
+Accepttext/htmlng: gzp, deflate
+Connectio~: keep-alive
+UpgradeInsecu•eÿRequests: 1
+Cookie: uid=CFYC‰NixEa
+
+test=testí
+

@@ -1,0 +1,6 @@
+GET /upload_captival_htmlsessionin®php_int HTTP/1.1
+AccEncoding: gzzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uest=test
+

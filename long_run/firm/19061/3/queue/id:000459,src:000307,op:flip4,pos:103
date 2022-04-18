@@ -1,0 +1,6 @@
+GET %s//ion_login.p.. HTTP/1.1
+Accept-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.:0
+Content_Length: 20
+Cookie: test=test
+

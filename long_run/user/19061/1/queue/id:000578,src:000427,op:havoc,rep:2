@@ -1,0 +1,10 @@
+GET ¯ses_login.php HTTP/1.0
+A…cEncoding: gzip,deflate,sywzywzywzywzyw
+Host: 192.1
+Connection: keep-alive
+te68.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+Connection: keep-alive
+test=test
+

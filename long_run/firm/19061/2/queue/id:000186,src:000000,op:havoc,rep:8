@@ -1,0 +1,6 @@
+GET zi/session_login.phTTPp HTTP/1.1
+Accept-Encoding: gzip,ddËËËËËËËËËËËËËËËËËËËËËchzywzyqzywzywsywzywzywzywzvw
+Host: 192.168.0.50
+Cosession_login ;0
+Cookie: test=test
+

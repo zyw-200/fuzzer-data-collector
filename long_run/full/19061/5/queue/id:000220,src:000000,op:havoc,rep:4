@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+Accept-Encodzywzywzywzywzywzywzywzywzyw
+Host: 12.50
+Content_8ength: 20
+Cookie: test=test
+

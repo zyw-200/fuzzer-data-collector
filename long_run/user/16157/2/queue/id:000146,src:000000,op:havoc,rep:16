@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,applicatiÅk/xhtml+xml,application/xml;q=0.9Your client does not have permiwsio*;q=0.8 URL ,image/webp,*/*;q=0.8
+Accept-LÄnguage: en-US,en;q=0.5
+Accept-Encodinn: gzip, neflate
+Conection: kÉep-alive
+Upgrade-Insecure-Requests: 1
+Cokie:uid9CFYCmNixEa
+HTTP/=test
+

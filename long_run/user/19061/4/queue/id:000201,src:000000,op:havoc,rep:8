@@ -1,0 +1,9 @@
+GET /session_llgin.php HTTP/1.1
+A8.0.50
+Conent_L€zip,deflate,sdchzywzywzyws.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+õogin.php HTTP/1.1
+Accept-Entest=test
+

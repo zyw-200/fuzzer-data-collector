@@ -1,0 +1,10 @@
+GET /fdevent_unregister HTTP/1.1
+Host: 192.168.0html,application/xhtml+xml,hpplication/xml;q=0.9,image/webp,*/*;q=0.8  
+Accept-Language: en-US,en;q=0.5
+Accept-Enoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Incecure-uests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

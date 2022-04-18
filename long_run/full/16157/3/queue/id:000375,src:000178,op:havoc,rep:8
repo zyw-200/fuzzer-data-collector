@@ -1,0 +1,5 @@
+GET /router-info.htm HTTP/1.1
+Host: 192.168.0.1UTER:ser: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Languagú: enUS,en;q=0.5
+Accept-Encoding: gzgp, deflate
+Connection:       xmlns:m="urn:NETGE-R-ROUTER:service:WANEthernetLinkConfig:1">

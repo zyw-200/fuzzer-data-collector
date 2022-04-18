@@ -1,0 +1,10 @@
+GET ? HTTP/1.1
+HNst: 192.168.0.1
+grAc#ept: text/html,application/xhtml+xml,application/xml;q=0.9,imagN/webp,*/*;q=0.8
+Acrept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade9Inse#ure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=testù	

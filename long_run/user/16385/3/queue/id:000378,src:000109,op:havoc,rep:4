@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 19..168.0.1
+Accept: thtml,application/xhtml+xmlTP/,application/xml;q=0.9,imag en-rS,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgr-Requests: 1                               
+Cookie: uid=CFYCmNixEa
+
+

@@ -1,0 +1,7 @@
+POST ? HTTP/1.1
+A: 192.168.0.50
+Contentflate,sdchzywzywzywzyw~ywzywzywzywzyw***********************
+Host: 192.168.0.50
+Content_Length: 20
+Cookie: uid=zyézywzy
+

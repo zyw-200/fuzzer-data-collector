@@ -1,0 +1,10 @@
+GET /dws/api/GetFile/ HTTP/1.1
+ost1
+Accept: text/q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Eeflate
+Connection: keep-alive
+-Requests: 1
+CoixEa
+
+test

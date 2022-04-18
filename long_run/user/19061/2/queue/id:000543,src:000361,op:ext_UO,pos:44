@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Connection:/etc/scripts/misc/profile.sh reset /var/config.bin%s" 1 s reason:"%s"  20
+Cookie: uid=zywzywzy
+
+t

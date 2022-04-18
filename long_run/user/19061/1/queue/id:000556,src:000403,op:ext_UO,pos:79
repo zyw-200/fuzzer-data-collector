@@ -1,0 +1,7 @@
+GET %s//ion_login.php HTTP/1.1
+Accept-Encoding: gzip,deflate,swzywzywzzywzyw
+Connection: keep-alivenent_Length: 20
+Cookie: uid=zywzywzy
+Connection: close
+test=test
+

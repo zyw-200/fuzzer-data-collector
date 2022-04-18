@@ -1,0 +1,2 @@
+GET /cgi-bin/print_http_headers/ HTTP/1.1
+Hos

@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host-Language: en-US,en;q=0.5
+t: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q;q=0.8
+Acce$t-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEx
+
+test=test
+

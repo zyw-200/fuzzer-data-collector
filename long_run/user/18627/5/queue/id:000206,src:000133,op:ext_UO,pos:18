@@ -1,0 +1,2 @@
+POST /HTTP/1.1%s/%s/dir.%d.%ldttp:Host//scr.%d.%ld
+Act

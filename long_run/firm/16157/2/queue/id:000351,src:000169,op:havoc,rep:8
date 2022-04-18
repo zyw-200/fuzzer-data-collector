@@ -1,0 +1,8 @@
+GET /router-info.htm HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0tmpfile open,*/*;q=0.8
+Acceptt-^anguage: en-US,enContent-Typet-Encoding: gzi, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixE_
+

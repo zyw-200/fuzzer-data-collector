@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+warning: server.set-v6only will be removed soon, update your config to have different sockets for ipv4 and ipv6=0.5
+Accept-Encoding: gzip, deflate
+Connection: kno-store, no-cache, must-revalidate, post-check=0, pre-check=0, max-age=-1st
+

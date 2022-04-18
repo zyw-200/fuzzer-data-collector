@@ -1,0 +1,6 @@
+GET /<ipv6_wan_network_status>%s</ipv6_wan_network_status>/va =0..5
+te
+ve
+s: 1
+Cot
+

@@ -1,0 +1,5 @@
+GET / HT.1
+SOAPAction::service:/usr/bin/killall -SIGUSR2 udhcpcve
+s
+Cot
+

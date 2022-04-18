@@ -1,0 +1,10 @@
+GET /currentsetting.htm HTTP/1.1
+Host: 192.168.0.1
+Accepte: uxt/html,ap<H2>Index of %s</H2>plication/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: eq=0.5
+Accept-Encoding: gzipá deflate
+Connection: keep-axive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNm HTTP/1.1
+Host: 192.6666666616ixEaý
+te

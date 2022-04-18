@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host:<tr><td width=95%%></td><td align=right><font color=#ffffff size=5><b>NETGEAR</b></font></td></tr>Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=tes

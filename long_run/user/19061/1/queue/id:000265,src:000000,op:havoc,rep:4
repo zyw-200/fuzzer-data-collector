@@ -1,0 +1,11 @@
+GET /session_login.php HTTP/1.1
+Accept-Encodionent_Length: 20
+Cookie: uid=zng: gzip168.
+Cookie: uid=zng: gzip0.50
+Conent_Len,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zyConent_Lengthwzywzy
+
+test=test
+

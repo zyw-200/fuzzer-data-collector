@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+Connection: ke 1 s ap"%s" 1 s ssid1:"%s" 1 s ssid2:"%s" 1 s "wepkey1"
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

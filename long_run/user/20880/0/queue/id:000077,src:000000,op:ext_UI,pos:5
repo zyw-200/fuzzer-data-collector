@@ -1,0 +1,6 @@
+GET /<wlan_guard_interval>short</wlan_guard_interval> HT.1
+w
+H0
+C
+Cot
+

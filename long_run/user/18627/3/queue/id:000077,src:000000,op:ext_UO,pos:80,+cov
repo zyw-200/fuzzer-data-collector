@@ -1,0 +1,5 @@
+POST / HTTP/1.1
+Accept-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Content-type: text/html;charset=%s: 20
+Cookie: test=test
+

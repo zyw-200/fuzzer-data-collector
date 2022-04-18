@@ -1,0 +1,11 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gþip,d
+Cookie: uid=zywzywzy
+
+testeflUte,session_login.php HTTP/1.1
+Acc192.168.0.50
+ConeLength: 20
+Cookse: uid=zywzywzy
+
+test=testttt
+

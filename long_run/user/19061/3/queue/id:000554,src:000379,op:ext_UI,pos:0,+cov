@@ -1,0 +1,6 @@
+POST to file rejectedGET %s//ion_login.php HTTP/1.1
+Acceing: gzip,deflatywzywzywzywzywzyw
+Host: 192.168.0.50
+Content-Length: 0
+Cookie: uid=zyest
+

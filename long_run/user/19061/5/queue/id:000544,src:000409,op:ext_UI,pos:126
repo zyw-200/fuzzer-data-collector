@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/9.1
+AccEncoding: gzip,deflate,sywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Connection:Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat, keep,alive
+test=test
+

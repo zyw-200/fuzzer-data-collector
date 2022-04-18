@@ -1,0 +1,7 @@
+GET /seclose_rfd: %d80hp HTTP/1.1
+At-Encoding: gzip,deflate,sywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test

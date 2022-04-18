@@ -1,0 +1,10 @@
+GET /s%ssion_login.php HTTP/1.1
+Accept-Encoding: gzip,ddch
+
+
+
+zywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Contenfds:      20
+Cookie: tJst=test
+

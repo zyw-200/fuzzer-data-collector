@@ -1,0 +1,7 @@
+GET / HT.1
+SOAPAction:H:service:<m:GetWEPSecurityKeysResponse xmlns:m="urn:NETGEAR-ROUTER:service:WLANConfiguration:1">    <NewWEPKey>%s</NewWEPKey>pt-Language: .5
+te
+ve
+s
+Cot
+

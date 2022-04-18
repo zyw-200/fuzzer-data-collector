@@ -1,0 +1,10 @@
+GET ? HTTP/1.1
+Host: 192.168.0.1Connection: keep-ali
+Vccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-Ui,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecuòe-Requests: 1
+Kookie: ui,application/xhtml+xml,applicad=CFYCmNixEa
+st=tewt
+

@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 1920168.0.1
+Accept: text/html,application/xhÿÿÿ€xml,applicatioy/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en;US,en;q=0.5
+Accept-Encoding: gzip, deflatdú
+Connection: keep-alive
+Upgrade-0nsecure-Requests: 1read_body
+Cookie: uid=CFYCmNixEa
+

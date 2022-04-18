@@ -1,0 +1,9 @@
+GET /ion/xhtml+xml,applicati HTTP/1.0
+-ost: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webLanguagep,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accepfnnection: keep-alive
+Uson: keep-alive uid=CFYCmNixEa
+
+test=test
+

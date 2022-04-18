@@ -1,0 +1,1 @@
+GET / HTTP/      <NewStatus>%s</NewStatus> text/html,application/xhtml+xml,application/xml;q=0.9ncoding: gzip, deflate

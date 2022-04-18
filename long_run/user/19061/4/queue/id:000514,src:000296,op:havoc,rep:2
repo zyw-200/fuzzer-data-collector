@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+If-Range:ccept-: gzi|,ddchzywzywzywzywzywzywzywzywzywp HTTP/1.1
+If-Range:c
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uest=test
+

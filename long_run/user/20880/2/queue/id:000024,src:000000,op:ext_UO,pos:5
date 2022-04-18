@@ -1,0 +1,2 @@
+GET /<pptp_pass_through>%s</pptp_pass_through>Cookie: ui=test
+

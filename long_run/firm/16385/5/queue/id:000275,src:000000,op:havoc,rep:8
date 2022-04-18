@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 1ccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Languaàe: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+ConnectIoä: keep-alive
+Upgcure-ReqUests: 1
+Cookige: en-US,en;q=0.5
+Accepests: 1
+Ct-Encoe: uid=CFYCmNixEa
+
+test=test
+

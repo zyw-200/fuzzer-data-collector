@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+IF_MODIFIED_SINCE:ost: 19/html.1
+:ost:.D
+
+
+	

@@ -1,0 +1,8 @@
+GET session_login.php HTTP/1.1
+: 20
+Cookie: test=method "%s" not implementedwzywzyw
+Hos.1
+: 20
+Cookie: test=wzyength: 20
+Cookie: test=tjst
+

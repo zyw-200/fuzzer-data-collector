@@ -1,0 +1,38 @@
+GET /session_login?php HTTP/1.1
+Accept-Encoding: gent_Length: 20
+Cookywzywzywzywzywzywzywzyw
+Host: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookie: uid=zywzywzy
+:test=test
+

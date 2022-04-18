@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Aphpccept-Encoding: gzip,ddchzywzywzywzywzywzywzywzywzyw
+Host: 192158.-.50
+Content				t=test
+

@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,applion/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.C
+Accept-aanguage: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrtde-Insecure-Requests: 1
+Cookiÿÿÿÿid=CFYCmNqxEa
+
+test=test
+

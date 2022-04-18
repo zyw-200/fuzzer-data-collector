@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.968.0.1
+Acceptÿ text/html,application/xhtml+xml,application/xml;q!0.9,image/webp,*5Accept-: gzip,*;q=0.8
+Acceÿÿÿÿanguage: en-UGETn;q=0.5
+A*÷Acc-: gzip, deflate
+Connectionnnection: keep-alive
+Apgrade-InsecreÿRequests:<HTML><HEAD><MITLE>401 Unauthorized</TITLE>Q/HEAD> 1
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+Connection:keep-aleflate,s/1.1
+Connection:kzyw
+Host: 192.168.0.50
+ConenK_LengtCookie: uid=zywzywzy
+
+t

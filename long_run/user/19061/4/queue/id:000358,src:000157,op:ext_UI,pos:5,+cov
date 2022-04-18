@@ -1,0 +1,7 @@
+GET /upload_cwm_cfgsession_login.php_int HTTP/1.1
+Ang: gzip,deflazywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

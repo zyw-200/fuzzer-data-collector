@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1ŠAq=0.8
+Accept-La;q=0.5
+Accept-Eeflate
+Connection: keep-alive
+-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+=tes
