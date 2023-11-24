@@ -1,5 +1,17 @@
 [fuzzers]
     # sub-tables use "." to connect
+    [fuzzers.EQUAFLplus]
+        # the content in data files are "time(sec):data number"
+        data_files = [
+            "raw_fuzz/19061/equafl++1",
+            "raw_fuzz/19061/equafl++2",
+            "raw_fuzz/19061/equafl++3",
+            "raw_fuzz/19061/equafl++4",
+            "raw_fuzz/19061/equafl++5"
+        ]
+        line_style = "solid"
+        line_color = "xkcd:scarlet"
+
     [fuzzers.EQUAFL]
         # the content in data files are "time(sec):data number"
         data_files = [
@@ -9,7 +21,7 @@
             "raw_fuzz/19061/equafl4",
             "raw_fuzz/19061/equafl5"
         ]
-        line_style = "solid"
+        line_style = "dashed"
         line_color = "xkcd:scarlet"
 
     [fuzzers.Firm-AFL]
