@@ -82,6 +82,7 @@ def align_data(fuzzer_dict, misc_dict):
     mkdirs(aligned_dir)
 
     new_data_files = []
+    last_vals = []
 
     print("[*] aligning data for {}".format(fuzzer_name))
 
@@ -134,13 +135,16 @@ def align_data(fuzzer_dict, misc_dict):
             new_vals.append(vals[val_idx])
 
         new_data_file = aligned_dir + str(j) + ".txt"
+        last_vals.append(new_vals[-1])
         with open(new_data_file, "w") as out_file:
             for val in new_vals:
                 out_file.write(str(val)+'\n')
 
         new_data_files.append(new_data_file)
 
+    fuzzer_dict['old_data_files'] = data_files
     fuzzer_dict['data_files'] = new_data_files
+    fuzzer_dict['last_vals'] = last_vals
 
 
 # plot for every data file of the fuzzer; n is the id for the figure
@@ -378,6 +382,19 @@ def generate_plots(fuzzers_dict, misc_dict):
 
     calculate_a12s(general_stats_file, 'a', fuzzers_dict)
 
+    with open(general_stats_file, 'a') as file_handle:
+        for fuzzer_name in fuzzers_dict:
+            fuzzer_dict = fuzzers_dict[fuzzer_name]
+            old_data_files = fuzzer_dict['old_data_files']
+            data_files = fuzzer_dict['data_files']
+            last_vals = fuzzer_dict['last_vals']
+
+            for (i, old_data_file) in enumerate(old_data_files):
+                file_handle.write('fuzzer:{} orig_file:{} aligned_file:{} last_val:{} \n'
+                                  .format(fuzzer_name, data_files[i], old_data_file, last_vals[i]))
+
+            file_handle.write('\n')
+
     if 'y_start_0' in misc_dict and misc_dict['y_start_0']:
         ax.set_ylim(ymin=0)
         ax_s.set_ylim(ymin=0)
@@ -455,6 +472,20 @@ def generate_stat_data(fuzzers_dict, misc_dict):
 
     calculate_a12s(general_stats_file, 'a', fuzzers_dict)
 
+    with open(general_stats_file, 'a') as file_handle:
+        for fuzzer_name in fuzzers_dict:
+            fuzzer_dict = fuzzers_dict[fuzzer_name]
+            old_data_files = fuzzer_dict['old_data_files']
+            data_files = fuzzer_dict['data_files']
+            last_vals = fuzzer_dict['last_vals']
+
+            for (i, old_data_file) in enumerate(old_data_files):
+                file_handle.write('fuzzer:{} orig_file:{} aligned_file:{} last_val:{} \n'
+                                  .format(fuzzer_name, data_files[i], old_data_file, last_vals[i]))
+
+            file_handle.write('\n')
+
+
 
 def generate_box_plots(fuzzers_dict, misc_dict):
     fig = plt.figure(len(fuzzers_dict))
@@ -465,7 +496,7 @@ def generate_box_plots(fuzzers_dict, misc_dict):
     box_data = []
     box_colors = []
     line_styles = []
-    marker = []
+    # marker = []
     fuzzer_names = list(fuzzers_dict.keys())
     fuzzer_names.sort()
     for fuzzer_name in fuzzer_names:
@@ -477,7 +508,7 @@ def generate_box_plots(fuzzers_dict, misc_dict):
 
         line_styles.append(fuzzer['line_style'])
 
-        marker.append(fuzzer['marker'])
+        # marker.append(fuzzer['marker'])
 
         if not os.path.exists(data_file):
             fuzzer['final_vals'] = []
@@ -526,11 +557,11 @@ def generate_box_plots(fuzzers_dict, misc_dict):
         ax.plot(xn, y, color="k", linewidth=5, solid_capstyle="butt", zorder=4)
 
     # plot the dots (scatter)
-    # for (i, fuzzer_name) in enumerate(fuzzer_names):
-    #     fuzzer = fuzzers_dict[fuzzer_name]
-    #     y = fuzzer['final_vals']
-    #     x = np.random.normal(1+i, 0.1, size=len(y))
-    #     ax.scatter(x, y, c=fuzzer['box_color'], alpha=0.8, s=100)
+    for (i, fuzzer_name) in enumerate(fuzzer_names):
+        fuzzer = fuzzers_dict[fuzzer_name]
+        y = fuzzer['final_vals']
+        x = np.random.normal(1+i, 0.1, size=len(y))
+        ax.scatter(x, y, c=fuzzer['box_color'], alpha=0.8, s=100)
 
     if 'ylim' in misc_dict:
         ax.set_ylim(misc_dict['ylim'])
