@@ -1,6 +1,6 @@
 [fuzzers]
     # sub-tables use "." to connect
-    [fuzzers.EQUAFLplus]
+    [fuzzers.EQUAFLplusplus]
         # the content in data files are "time(sec):data number"
         data_files = [
             "raw_fuzz/19061/equafl++1",
@@ -22,7 +22,7 @@
             "raw_fuzz/19061/equafl5"
         ]
         line_style = "dashed"
-        line_color = "xkcd:scarlet"
+        line_color = "xkcd:green"
 
     [fuzzers.Firm-AFL]
         # the content in data files are "time(sec):data number"

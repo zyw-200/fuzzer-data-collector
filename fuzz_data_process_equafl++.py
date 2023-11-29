@@ -6,9 +6,14 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import MultipleLocator, FormatStrFormatter  
 import numpy as np
 
-
+# get vuls
 def get_user_equafl(image_id, round_time):
 	file_dir = "long_run/user/image_%d_0_%d/" %(image_id, round_time)
+	file = "%s/plot_data" %file_dir
+	return crash_extract(file)
+
+def get_user_equafl_mid(image_id, round_time):
+	file_dir = "long_run/user/image_%d_1_%d" %(image_id, round_time)
 	file = "%s/plot_data" %file_dir
 	return crash_extract(file)
 
@@ -27,8 +32,14 @@ def get_firm(image_id, round_time):
 	file = "%s/plot_data" %file_dir
 	return crash_extract(file)
 
+# get paths
 def get_user_path_equafl(image_id, round_time):
 	file_dir = "long_run/user/image_%d_0_%d/" %(image_id, round_time)
+	file = "%s/plot_data" %file_dir
+	return path_extract(file)
+
+def get_user_path_equafl_mid(image_id, round_time):
+	file_dir = "long_run/user/image_%d_1_%d" %(image_id, round_time)
 	file = "%s/plot_data" %file_dir
 	return path_extract(file)
 
@@ -46,6 +57,32 @@ def get_firm_path(image_id, round_time):
 	file_dir = "long_run/firm/%d/%d/" %(image_id, round_time)
 	file = "%s/plot_data" %file_dir
 	return path_extract(file)
+
+def get_user_speed_equafl(image_id, round_time):
+	file_dir = "long_run/user/image_%d_0_%d/" %(image_id, round_time)
+	file = "%s/plot_data" %file_dir
+	return speed_extract(file)
+
+def get_user_speed_equafl_mid(image_id, round_time):
+	file_dir = "long_run/user/image_%d_1_%d" %(image_id, round_time)
+	file = "%s/plot_data" %file_dir
+	return speed_extract(file)
+
+def get_user_speed_equafl_new(image_id, round_time):
+	file_dir = "long_run/user/image_%d_2_%d" %(image_id, round_time)
+	file = "%s/plot_data" %file_dir
+	return speed_extract(file)
+	
+def get_full_speed(image_id, round_time):
+	file_dir = "long_run/full/%d/%d/" %(image_id, round_time)
+	file = "%s/plot_data" %file_dir
+	return speed_extract(file)
+
+def get_firm_speed(image_id, round_time):
+	file_dir = "long_run/firm/%d/%d/" %(image_id, round_time)
+	file = "%s/plot_data" %file_dir
+	return speed_extract(file)
+
 
 
 def crash_extract(file_name):
@@ -115,6 +152,30 @@ def path_extract(file_name):
 		time_list.append(past_time)
 		crash_list.append(crash_num)
 		last_crash = crash_num
+	data_file.close()
+	return time_list, crash_list
+
+def speed_extract(file_name):
+	data_file = open(file_name, "r")
+	time_list = []
+	crash_list = []
+	data_file.readline()
+	first_row = data_file.readline()
+	strstr = first_row.split(",")
+	try:
+		start_time = int(strstr[0])
+	except:
+		print("????????????????????????????????????????", file_name)
+	time_list.append(0)
+	crash_list.append(0)
+	for line in data_file.readlines():
+		strstr = line.split(",")
+		time  = int(strstr[0])
+		speed = int(float(strstr[10]))
+		#past_time = float(time - start_time)/3600
+		past_time = time - start_time
+		time_list.append(past_time)
+		crash_list.append(speed)
 	data_file.close()
 	return time_list, crash_list
 
@@ -312,17 +373,20 @@ def fuzz_data_process(image_id, round_time, count, httpd_list):
 	vul_time = {}
 	vul_full_time = {}
 	y_max = 0 
-	raw_data_dir = "raw_fuzz/" + str(image_id) +"/"
+	raw_data_dir = "raw_fuzz_vul/" + str(image_id) +"/"
 	if os.path.exists(raw_data_dir) == False:
 		cmdstr = "mkdir -p %s" %raw_data_dir
 		os.system(cmdstr)
 	for round in range(1, 6):	
 
 		real_round = round
+		# if image_id in [19061]:
+		# 	time_list, crash_list = get_user_equafl_mid(image_id, real_round-1)
+		# else:
 		time_list, crash_list = get_user_equafl(image_id, real_round-1)
 
-		# if image_id != 19061:
-		crash_list = normalize(crash_list)
+		if image_id != 19061:
+			crash_list = normalize(crash_list)
 		# else:
 		# 	vul_list = extract_unique_bug(crash_list, round)
 		if time_list[-1] < 24*3600:
@@ -348,15 +412,15 @@ def fuzz_data_process(image_id, round_time, count, httpd_list):
 		#equafl++
 		time_list, crash_list = get_user_equafl_new(image_id, real_round-1)
 
-		# if image_id != 19061:
-		crash_list = normalize(crash_list)
+		if image_id != 19061:
+			crash_list = normalize(crash_list)
 		# else:
 		# 	vul_list = extract_unique_bug(crash_list, round)
 		if time_list[-1] < 24*3600:
 			time_list.append(24*3600)
 			last_crash  = crash_list[-1]
 			crash_list.append(last_crash)
-		print("EQUAFL", image_id, round, time_to_first_crash(time_list, crash_list))
+		print("EQUAFL++", image_id, round, time_to_first_crash(time_list, crash_list))
 		user_time.append(time_to_first_crash(time_list, crash_list))
 
 		# if image_id == 19061:
@@ -395,8 +459,8 @@ def fuzz_data_process(image_id, round_time, count, httpd_list):
 		if image_id == 108076:
 			full_crash_list = normalize(full_crash_list)
 		'''
-		# if image_id != 19061:
-		full_crash_list = normalize(full_crash_list)
+		if image_id != 19061:
+			full_crash_list = normalize(full_crash_list)
 
 		if full_time_list[-1] < 24*3600:
 			full_time_list.append(24*3600)
@@ -486,6 +550,66 @@ def fuzz_data_process_path(image_id, round_time, count, httpd_list):
 		raw_data_output(full_time_list, full_crash_list, output_file)
 
 
+def fuzz_data_process_speed(image_id, round_time, count, httpd_list):
+	plt.subplot(3, 2, count)
+	plt.grid(linestyle="--") 
+	ax=plt.gca()
+	yminorLocator  = MultipleLocator(1)
+	xminorLocator  = MultipleLocator(1)
+	ax.yaxis.set_minor_locator(yminorLocator)
+	ax.xaxis.set_minor_locator(xminorLocator)
+	firm_time = []
+	user_time = []
+	full_time = []
+	y_max = 0 
+	raw_data_dir = "raw_fuzz_speed/" + str(image_id) +"/"
+	if os.path.exists(raw_data_dir) == False:
+		cmdstr = "mkdir -p %s" %raw_data_dir
+		os.system(cmdstr)
+	for round in range(1, 6):	
+
+		real_round = round
+		time_list, crash_list = get_user_speed_equafl(image_id, real_round-1)
+		if time_list[-1] < 24:
+			time_list.append(24)
+			last_crash  = crash_list[-1]
+			crash_list.append(last_crash)
+		print(round, time_to_first_crash(time_list, crash_list))
+		user_time.append(time_to_first_crash(time_list, crash_list))
+
+		output_file = raw_data_dir + "equafl" + str(round)
+		raw_data_output(time_list, crash_list, output_file)
+
+		# equafl+=
+		time_list, crash_list = get_user_speed_equafl_new(image_id, real_round-1)
+		if time_list[-1] < 24:
+			time_list.append(24)
+			last_crash  = crash_list[-1]
+			crash_list.append(last_crash)
+		print(round, time_to_first_crash(time_list, crash_list))
+		user_time.append(time_to_first_crash(time_list, crash_list))
+
+		output_file = raw_data_dir + "equafl++" + str(round)
+		raw_data_output(time_list, crash_list, output_file)
+
+		firm_time_list, firm_crash_list = get_firm_speed(image_id,real_round)
+		if firm_time_list[-1] < 24:
+			firm_time_list.append(24)
+			last_crash  = firm_crash_list[-1]
+			firm_crash_list.append(last_crash)
+
+		output_file = raw_data_dir + "firmafl" + str(round)
+		raw_data_output(firm_time_list, firm_crash_list, output_file)
+
+		full_time_list, full_crash_list = get_full_speed(image_id,real_round)
+		if full_time_list[-1] < 24:
+			full_time_list.append(24)
+			last_crash  = full_crash_list[-1]
+			full_crash_list.append(last_crash)
+		full_time.append(time_to_first_crash(full_time_list, full_crash_list))
+
+		output_file = raw_data_dir + "full" + str(round)
+		raw_data_output(full_time_list, full_crash_list, output_file)
 	
 
 
@@ -493,11 +617,14 @@ def fuzz_data_process_path(image_id, round_time, count, httpd_list):
 # httpd_list = ["/bin/boa (WN2000RPTv1)", "/usr/sbin/uhttpd (WNDRMACv2)", "/sbin/httpd (DIR-825)", "/usr/bin/lighttpd (DSP-W215)", "/userfs/bin/boa (DSL-2740R)", "/sbin/httpd (DAP-2330)"]
 
 
-image_list = [16157, 18627, 19061]
-httpd_list = ["/bin/boa (WN2000RPTv1)", "/userfs/bin/boa (DSL-2740R)", "/sbin/httpd (DAP-2330)"]
+image_list = [16157, 18627, 19061, 20880]
+httpd_list = ["/bin/boa (WN2000RPTv1)", "/userfs/bin/boa (DSL-2740R)", "/sbin/httpd (DAP-2330)", "/sbin/httpd (DIR-825)"]
 
+cmd = "cp -r /home/yaowen/EQUAFL_setup/tools/image* long_run/user/"
+os.system(cmd)
 
 count = 1
 for image_id in image_list:
-	fuzz_data_process(image_id, 0, count, httpd_list)
-	#fuzz_data_process_path(image_id, 0, count, httpd_list)
+		fuzz_data_process(image_id, 0, count, httpd_list)
+		fuzz_data_process_path(image_id, 0, count, httpd_list)
+		fuzz_data_process_speed(image_id, 0, count, httpd_list)
